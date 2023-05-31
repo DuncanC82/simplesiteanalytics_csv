@@ -1,0 +1,2017 @@
+car_class,price_change,from_day,to_day,pick_up_month
+A-Mini Manual-MDMR (Citroen C1),150,1,1,January
+B-Economy Manual-ECMR (Mazda2),150,1,1,January
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,January
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,January
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,January
+A-Mini Manual-MDMR (Citroen C1),150,1,1,February
+B-Economy Manual-ECMR (Mazda2),150,1,1,February
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,February
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,February
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,February
+A-Mini Manual-MDMR (Citroen C1),150,1,1,March
+B-Economy Manual-ECMR (Mazda2),150,1,1,March
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,March
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,March
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,March
+A-Mini Manual-MDMR (Citroen C1),150,1,1,April
+B-Economy Manual-ECMR (Mazda2),150,1,1,April
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,April
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,April
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,April
+A-Mini Manual-MDMR (Citroen C1),150,1,1,May
+B-Economy Manual-ECMR (Mazda2),150,1,1,May
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,May
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,May
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,May
+A-Mini Manual-MDMR (Citroen C1),150,1,1,June
+B-Economy Manual-ECMR (Mazda2),150,1,1,June
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,June
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,June
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,June
+A-Mini Manual-MDMR (Citroen C1),150,1,1,July
+B-Economy Manual-ECMR (Mazda2),150,1,1,July
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,July
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,July
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,July
+A-Mini Manual-MDMR (Citroen C1),150,1,1,August
+B-Economy Manual-ECMR (Mazda2),150,1,1,August
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,August
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,August
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,August
+A-Mini Manual-MDMR (Citroen C1),150,1,1,September
+B-Economy Manual-ECMR (Mazda2),150,1,1,September
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,September
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,September
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,September
+A-Mini Manual-MDMR (Citroen C1),150,1,1,October
+B-Economy Manual-ECMR (Mazda2),150,1,1,October
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,October
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,October
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,October
+A-Mini Manual-MDMR (Citroen C1),150,1,1,November
+B-Economy Manual-ECMR (Mazda2),150,1,1,November
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,November
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,November
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,November
+A-Mini Manual-MDMR (Citroen C1),150,1,1,December
+B-Economy Manual-ECMR (Mazda2),150,1,1,December
+C-Compact Manual-CDMR (Nissan Tiida),150,1,1,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),150,1,1,December
+H-Economy Automatic-EDAR (Nissan Micra),150,1,1,December
+F-Compact Automatic-CDAR (Nissan Tiida),150,1,1,December
+A-Mini Manual-MDMR (Citroen C1),40,2,2,January
+B-Economy Manual-ECMR (Mazda2),40,2,2,January
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,January
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,January
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,January
+A-Mini Manual-MDMR (Citroen C1),40,2,2,February
+B-Economy Manual-ECMR (Mazda2),40,2,2,February
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,February
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,February
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,February
+A-Mini Manual-MDMR (Citroen C1),40,2,2,March
+B-Economy Manual-ECMR (Mazda2),40,2,2,March
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,March
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,March
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,March
+A-Mini Manual-MDMR (Citroen C1),40,2,2,April
+B-Economy Manual-ECMR (Mazda2),40,2,2,April
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,April
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,April
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,April
+A-Mini Manual-MDMR (Citroen C1),40,2,2,May
+B-Economy Manual-ECMR (Mazda2),40,2,2,May
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,May
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,May
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,May
+A-Mini Manual-MDMR (Citroen C1),40,2,2,June
+B-Economy Manual-ECMR (Mazda2),40,2,2,June
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,June
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,June
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,June
+A-Mini Manual-MDMR (Citroen C1),40,2,2,July
+B-Economy Manual-ECMR (Mazda2),40,2,2,July
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,July
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,July
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,July
+A-Mini Manual-MDMR (Citroen C1),40,2,2,August
+B-Economy Manual-ECMR (Mazda2),40,2,2,August
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,August
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,August
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,August
+A-Mini Manual-MDMR (Citroen C1),40,2,2,September
+B-Economy Manual-ECMR (Mazda2),40,2,2,September
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,September
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,September
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,September
+A-Mini Manual-MDMR (Citroen C1),40,2,2,October
+B-Economy Manual-ECMR (Mazda2),40,2,2,October
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,October
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,October
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,October
+A-Mini Manual-MDMR (Citroen C1),40,2,2,November
+B-Economy Manual-ECMR (Mazda2),40,2,2,November
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,November
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,November
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,November
+A-Mini Manual-MDMR (Citroen C1),40,2,2,December
+B-Economy Manual-ECMR (Mazda2),40,2,2,December
+C-Compact Manual-CDMR (Nissan Tiida),40,2,2,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),40,2,2,December
+H-Economy Automatic-EDAR (Nissan Micra),40,2,2,December
+F-Compact Automatic-CDAR (Nissan Tiida),40,2,2,December
+A-Mini Manual-MDMR (Citroen C1),0,3,3,January
+B-Economy Manual-ECMR (Mazda2),0,3,3,January
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,January
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,January
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,January
+A-Mini Manual-MDMR (Citroen C1),0,3,3,February
+B-Economy Manual-ECMR (Mazda2),0,3,3,February
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,February
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,February
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,February
+A-Mini Manual-MDMR (Citroen C1),0,3,3,March
+B-Economy Manual-ECMR (Mazda2),0,3,3,March
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,March
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,March
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,March
+A-Mini Manual-MDMR (Citroen C1),0,3,3,April
+B-Economy Manual-ECMR (Mazda2),0,3,3,April
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,April
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,April
+A-Mini Manual-MDMR (Citroen C1),0,3,3,May
+B-Economy Manual-ECMR (Mazda2),0,3,3,May
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,May
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,May
+A-Mini Manual-MDMR (Citroen C1),0,3,3,June
+B-Economy Manual-ECMR (Mazda2),0,3,3,June
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,June
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,June
+A-Mini Manual-MDMR (Citroen C1),0,3,3,July
+B-Economy Manual-ECMR (Mazda2),0,3,3,July
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,July
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,July
+A-Mini Manual-MDMR (Citroen C1),0,3,3,August
+B-Economy Manual-ECMR (Mazda2),0,3,3,August
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,August
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,August
+A-Mini Manual-MDMR (Citroen C1),0,3,3,September
+B-Economy Manual-ECMR (Mazda2),0,3,3,September
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,September
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,September
+A-Mini Manual-MDMR (Citroen C1),0,3,3,October
+B-Economy Manual-ECMR (Mazda2),0,3,3,October
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,October
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,October
+A-Mini Manual-MDMR (Citroen C1),0,3,3,November
+B-Economy Manual-ECMR (Mazda2),0,3,3,November
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,November
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,November
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,November
+A-Mini Manual-MDMR (Citroen C1),0,3,3,December
+B-Economy Manual-ECMR (Mazda2),0,3,3,December
+C-Compact Manual-CDMR (Nissan Tiida),0,3,3,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,3,3,December
+H-Economy Automatic-EDAR (Nissan Micra),0,3,3,December
+F-Compact Automatic-CDAR (Nissan Tiida),0,3,3,December
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,January
+B-Economy Manual-ECMR (Mazda2),-10,4,4,January
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,January
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,January
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,January
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,February
+B-Economy Manual-ECMR (Mazda2),-10,4,4,February
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,February
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,February
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,February
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,March
+B-Economy Manual-ECMR (Mazda2),-10,4,4,March
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,March
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,March
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,March
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,April
+B-Economy Manual-ECMR (Mazda2),-10,4,4,April
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,April
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,April
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,April
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,May
+B-Economy Manual-ECMR (Mazda2),-10,4,4,May
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,May
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,May
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,May
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,June
+B-Economy Manual-ECMR (Mazda2),-10,4,4,June
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,June
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,June
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,June
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,July
+B-Economy Manual-ECMR (Mazda2),-10,4,4,July
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,July
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,July
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,July
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,August
+B-Economy Manual-ECMR (Mazda2),-10,4,4,August
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,August
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,August
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,August
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,September
+B-Economy Manual-ECMR (Mazda2),-10,4,4,September
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,September
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,September
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,September
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,October
+B-Economy Manual-ECMR (Mazda2),-10,4,4,October
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,October
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,October
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,October
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,November
+B-Economy Manual-ECMR (Mazda2),-10,4,4,November
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,November
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,November
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,November
+A-Mini Manual-MDMR (Citroen C1),-10,4,4,December
+B-Economy Manual-ECMR (Mazda2),-10,4,4,December
+C-Compact Manual-CDMR (Nissan Tiida),-10,4,4,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,4,4,December
+H-Economy Automatic-EDAR (Nissan Micra),-10,4,4,December
+F-Compact Automatic-CDAR (Nissan Tiida),-10,4,4,December
+A-Mini Manual-MDMR (Citroen C1),10,5,5,January
+B-Economy Manual-ECMR (Mazda2),10,5,5,January
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,January
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,January
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,January
+A-Mini Manual-MDMR (Citroen C1),10,5,5,February
+B-Economy Manual-ECMR (Mazda2),10,5,5,February
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,February
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,February
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,February
+A-Mini Manual-MDMR (Citroen C1),10,5,5,March
+B-Economy Manual-ECMR (Mazda2),10,5,5,March
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,March
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,March
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,March
+A-Mini Manual-MDMR (Citroen C1),10,5,5,April
+B-Economy Manual-ECMR (Mazda2),10,5,5,April
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,April
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,April
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,April
+A-Mini Manual-MDMR (Citroen C1),10,5,5,May
+B-Economy Manual-ECMR (Mazda2),10,5,5,May
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,May
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,May
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,May
+A-Mini Manual-MDMR (Citroen C1),10,5,5,June
+B-Economy Manual-ECMR (Mazda2),10,5,5,June
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,June
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,June
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,June
+A-Mini Manual-MDMR (Citroen C1),10,5,5,July
+B-Economy Manual-ECMR (Mazda2),10,5,5,July
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,July
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,July
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,July
+A-Mini Manual-MDMR (Citroen C1),10,5,5,August
+B-Economy Manual-ECMR (Mazda2),10,5,5,August
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,August
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,August
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,August
+A-Mini Manual-MDMR (Citroen C1),10,5,5,September
+B-Economy Manual-ECMR (Mazda2),10,5,5,September
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,September
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,September
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,September
+A-Mini Manual-MDMR (Citroen C1),10,5,5,October
+B-Economy Manual-ECMR (Mazda2),10,5,5,October
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,October
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,October
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,October
+A-Mini Manual-MDMR (Citroen C1),10,5,5,November
+B-Economy Manual-ECMR (Mazda2),10,5,5,November
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,November
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,November
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,November
+A-Mini Manual-MDMR (Citroen C1),10,5,5,December
+B-Economy Manual-ECMR (Mazda2),10,5,5,December
+C-Compact Manual-CDMR (Nissan Tiida),10,5,5,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),10,5,5,December
+H-Economy Automatic-EDAR (Nissan Micra),10,5,5,December
+F-Compact Automatic-CDAR (Nissan Tiida),10,5,5,December
+A-Mini Manual-MDMR (Citroen C1),5,6,6,January
+B-Economy Manual-ECMR (Mazda2),5,6,6,January
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,January
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,January
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,January
+A-Mini Manual-MDMR (Citroen C1),5,6,6,February
+B-Economy Manual-ECMR (Mazda2),5,6,6,February
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,February
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,February
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,February
+A-Mini Manual-MDMR (Citroen C1),5,6,6,March
+B-Economy Manual-ECMR (Mazda2),5,6,6,March
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,March
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,March
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,March
+A-Mini Manual-MDMR (Citroen C1),5,6,6,April
+B-Economy Manual-ECMR (Mazda2),5,6,6,April
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,April
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,April
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,April
+A-Mini Manual-MDMR (Citroen C1),5,6,6,May
+B-Economy Manual-ECMR (Mazda2),5,6,6,May
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,May
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,May
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,May
+A-Mini Manual-MDMR (Citroen C1),5,6,6,June
+B-Economy Manual-ECMR (Mazda2),5,6,6,June
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,June
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,June
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,June
+A-Mini Manual-MDMR (Citroen C1),5,6,6,July
+B-Economy Manual-ECMR (Mazda2),5,6,6,July
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,July
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,July
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,July
+A-Mini Manual-MDMR (Citroen C1),5,6,6,August
+B-Economy Manual-ECMR (Mazda2),5,6,6,August
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,August
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,August
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,August
+A-Mini Manual-MDMR (Citroen C1),5,6,6,September
+B-Economy Manual-ECMR (Mazda2),5,6,6,September
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,September
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,September
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,September
+A-Mini Manual-MDMR (Citroen C1),5,6,6,October
+B-Economy Manual-ECMR (Mazda2),5,6,6,October
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,October
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,October
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,October
+A-Mini Manual-MDMR (Citroen C1),5,6,6,November
+B-Economy Manual-ECMR (Mazda2),5,6,6,November
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,November
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,November
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,November
+A-Mini Manual-MDMR (Citroen C1),5,6,6,December
+B-Economy Manual-ECMR (Mazda2),5,6,6,December
+C-Compact Manual-CDMR (Nissan Tiida),5,6,6,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),5,6,6,December
+H-Economy Automatic-EDAR (Nissan Micra),5,6,6,December
+F-Compact Automatic-CDAR (Nissan Tiida),5,6,6,December
+A-Mini Manual-MDMR (Citroen C1),0,7,7,January
+B-Economy Manual-ECMR (Mazda2),0,7,7,January
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,January
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,January
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,January
+A-Mini Manual-MDMR (Citroen C1),0,7,7,February
+B-Economy Manual-ECMR (Mazda2),0,7,7,February
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,February
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,February
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,February
+A-Mini Manual-MDMR (Citroen C1),0,7,7,March
+B-Economy Manual-ECMR (Mazda2),0,7,7,March
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,March
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,March
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,March
+A-Mini Manual-MDMR (Citroen C1),0,7,7,April
+B-Economy Manual-ECMR (Mazda2),0,7,7,April
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,April
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,April
+A-Mini Manual-MDMR (Citroen C1),0,7,7,May
+B-Economy Manual-ECMR (Mazda2),0,7,7,May
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,May
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,May
+A-Mini Manual-MDMR (Citroen C1),0,7,7,June
+B-Economy Manual-ECMR (Mazda2),0,7,7,June
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,June
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,June
+A-Mini Manual-MDMR (Citroen C1),0,7,7,July
+B-Economy Manual-ECMR (Mazda2),0,7,7,July
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,July
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,July
+A-Mini Manual-MDMR (Citroen C1),0,7,7,August
+B-Economy Manual-ECMR (Mazda2),0,7,7,August
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,August
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,August
+A-Mini Manual-MDMR (Citroen C1),0,7,7,September
+B-Economy Manual-ECMR (Mazda2),0,7,7,September
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,September
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,September
+A-Mini Manual-MDMR (Citroen C1),0,7,7,October
+B-Economy Manual-ECMR (Mazda2),0,7,7,October
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,October
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,October
+A-Mini Manual-MDMR (Citroen C1),0,7,7,November
+B-Economy Manual-ECMR (Mazda2),0,7,7,November
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,November
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,November
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,November
+A-Mini Manual-MDMR (Citroen C1),0,7,7,December
+B-Economy Manual-ECMR (Mazda2),0,7,7,December
+C-Compact Manual-CDMR (Nissan Tiida),0,7,7,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,7,7,December
+H-Economy Automatic-EDAR (Nissan Micra),0,7,7,December
+F-Compact Automatic-CDAR (Nissan Tiida),0,7,7,December
+A-Mini Manual-MDMR (Citroen C1),-1,8,8,January
+B-Economy Manual-ECMR (Mazda2),-1,8,8,January
+C-Compact Manual-CDMR (Nissan Tiida),-1,8,8,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,8,8,January
+H-Economy Automatic-EDAR (Nissan Micra),-1,8,8,January
+F-Compact Automatic-CDAR (Nissan Tiida),-1,8,8,January
+A-Mini Manual-MDMR (Citroen C1),-1,8,8,February
+B-Economy Manual-ECMR (Mazda2),-1,8,8,February
+C-Compact Manual-CDMR (Nissan Tiida),-1,8,8,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,8,8,February
+H-Economy Automatic-EDAR (Nissan Micra),-1,8,8,February
+F-Compact Automatic-CDAR (Nissan Tiida),-1,8,8,February
+A-Mini Manual-MDMR (Citroen C1),-1,8,8,March
+B-Economy Manual-ECMR (Mazda2),-1,8,8,March
+C-Compact Manual-CDMR (Nissan Tiida),-1,8,8,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,8,8,March
+H-Economy Automatic-EDAR (Nissan Micra),-1,8,8,March
+F-Compact Automatic-CDAR (Nissan Tiida),-1,8,8,March
+A-Mini Manual-MDMR (Citroen C1),0,8,8,April
+B-Economy Manual-ECMR (Mazda2),0,8,8,April
+C-Compact Manual-CDMR (Nissan Tiida),0,8,8,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,8,8,April
+H-Economy Automatic-EDAR (Nissan Micra),0,8,8,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,8,8,April
+A-Mini Manual-MDMR (Citroen C1),0,8,8,May
+B-Economy Manual-ECMR (Mazda2),0,8,8,May
+C-Compact Manual-CDMR (Nissan Tiida),0,8,8,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,8,8,May
+H-Economy Automatic-EDAR (Nissan Micra),0,8,8,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,8,8,May
+A-Mini Manual-MDMR (Citroen C1),0,8,8,June
+B-Economy Manual-ECMR (Mazda2),0,8,8,June
+C-Compact Manual-CDMR (Nissan Tiida),0,8,8,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,8,8,June
+H-Economy Automatic-EDAR (Nissan Micra),0,8,8,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,8,8,June
+A-Mini Manual-MDMR (Citroen C1),0,8,8,July
+B-Economy Manual-ECMR (Mazda2),0,8,8,July
+C-Compact Manual-CDMR (Nissan Tiida),0,8,8,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,8,8,July
+H-Economy Automatic-EDAR (Nissan Micra),0,8,8,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,8,8,July
+A-Mini Manual-MDMR (Citroen C1),0,8,8,August
+B-Economy Manual-ECMR (Mazda2),0,8,8,August
+C-Compact Manual-CDMR (Nissan Tiida),0,8,8,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,8,8,August
+H-Economy Automatic-EDAR (Nissan Micra),0,8,8,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,8,8,August
+A-Mini Manual-MDMR (Citroen C1),0,8,8,September
+B-Economy Manual-ECMR (Mazda2),0,8,8,September
+C-Compact Manual-CDMR (Nissan Tiida),0,8,8,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,8,8,September
+H-Economy Automatic-EDAR (Nissan Micra),0,8,8,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,8,8,September
+A-Mini Manual-MDMR (Citroen C1),0,8,8,October
+B-Economy Manual-ECMR (Mazda2),0,8,8,October
+C-Compact Manual-CDMR (Nissan Tiida),0,8,8,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,8,8,October
+H-Economy Automatic-EDAR (Nissan Micra),0,8,8,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,8,8,October
+A-Mini Manual-MDMR (Citroen C1),-1,8,8,November
+B-Economy Manual-ECMR (Mazda2),-1,8,8,November
+C-Compact Manual-CDMR (Nissan Tiida),-1,8,8,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,8,8,November
+H-Economy Automatic-EDAR (Nissan Micra),-1,8,8,November
+F-Compact Automatic-CDAR (Nissan Tiida),-1,8,8,November
+A-Mini Manual-MDMR (Citroen C1),-1,8,8,December
+B-Economy Manual-ECMR (Mazda2),-1,8,8,December
+C-Compact Manual-CDMR (Nissan Tiida),-1,8,8,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,8,8,December
+H-Economy Automatic-EDAR (Nissan Micra),-1,8,8,December
+F-Compact Automatic-CDAR (Nissan Tiida),-1,8,8,December
+A-Mini Manual-MDMR (Citroen C1),-2,9,9,January
+B-Economy Manual-ECMR (Mazda2),-2,9,9,January
+C-Compact Manual-CDMR (Nissan Tiida),-2,9,9,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,9,9,January
+H-Economy Automatic-EDAR (Nissan Micra),-2,9,9,January
+F-Compact Automatic-CDAR (Nissan Tiida),-2,9,9,January
+A-Mini Manual-MDMR (Citroen C1),-2,9,9,February
+B-Economy Manual-ECMR (Mazda2),-2,9,9,February
+C-Compact Manual-CDMR (Nissan Tiida),-2,9,9,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,9,9,February
+H-Economy Automatic-EDAR (Nissan Micra),-2,9,9,February
+F-Compact Automatic-CDAR (Nissan Tiida),-2,9,9,February
+A-Mini Manual-MDMR (Citroen C1),-2,9,9,March
+B-Economy Manual-ECMR (Mazda2),-2,9,9,March
+C-Compact Manual-CDMR (Nissan Tiida),-2,9,9,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,9,9,March
+H-Economy Automatic-EDAR (Nissan Micra),-2,9,9,March
+F-Compact Automatic-CDAR (Nissan Tiida),-2,9,9,March
+A-Mini Manual-MDMR (Citroen C1),0,9,9,April
+B-Economy Manual-ECMR (Mazda2),0,9,9,April
+C-Compact Manual-CDMR (Nissan Tiida),0,9,9,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,9,9,April
+H-Economy Automatic-EDAR (Nissan Micra),0,9,9,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,9,9,April
+A-Mini Manual-MDMR (Citroen C1),0,9,9,May
+B-Economy Manual-ECMR (Mazda2),0,9,9,May
+C-Compact Manual-CDMR (Nissan Tiida),0,9,9,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,9,9,May
+H-Economy Automatic-EDAR (Nissan Micra),0,9,9,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,9,9,May
+A-Mini Manual-MDMR (Citroen C1),0,9,9,June
+B-Economy Manual-ECMR (Mazda2),0,9,9,June
+C-Compact Manual-CDMR (Nissan Tiida),0,9,9,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,9,9,June
+H-Economy Automatic-EDAR (Nissan Micra),0,9,9,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,9,9,June
+A-Mini Manual-MDMR (Citroen C1),0,9,9,July
+B-Economy Manual-ECMR (Mazda2),0,9,9,July
+C-Compact Manual-CDMR (Nissan Tiida),0,9,9,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,9,9,July
+H-Economy Automatic-EDAR (Nissan Micra),0,9,9,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,9,9,July
+A-Mini Manual-MDMR (Citroen C1),0,9,9,August
+B-Economy Manual-ECMR (Mazda2),0,9,9,August
+C-Compact Manual-CDMR (Nissan Tiida),0,9,9,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,9,9,August
+H-Economy Automatic-EDAR (Nissan Micra),0,9,9,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,9,9,August
+A-Mini Manual-MDMR (Citroen C1),0,9,9,September
+B-Economy Manual-ECMR (Mazda2),0,9,9,September
+C-Compact Manual-CDMR (Nissan Tiida),0,9,9,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,9,9,September
+H-Economy Automatic-EDAR (Nissan Micra),0,9,9,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,9,9,September
+A-Mini Manual-MDMR (Citroen C1),0,9,9,October
+B-Economy Manual-ECMR (Mazda2),0,9,9,October
+C-Compact Manual-CDMR (Nissan Tiida),0,9,9,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,9,9,October
+H-Economy Automatic-EDAR (Nissan Micra),0,9,9,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,9,9,October
+A-Mini Manual-MDMR (Citroen C1),-2,9,9,November
+B-Economy Manual-ECMR (Mazda2),-2,9,9,November
+C-Compact Manual-CDMR (Nissan Tiida),-2,9,9,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,9,9,November
+H-Economy Automatic-EDAR (Nissan Micra),-2,9,9,November
+F-Compact Automatic-CDAR (Nissan Tiida),-2,9,9,November
+A-Mini Manual-MDMR (Citroen C1),-2,9,9,December
+B-Economy Manual-ECMR (Mazda2),-2,9,9,December
+C-Compact Manual-CDMR (Nissan Tiida),-2,9,9,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,9,9,December
+H-Economy Automatic-EDAR (Nissan Micra),-2,9,9,December
+F-Compact Automatic-CDAR (Nissan Tiida),-2,9,9,December
+A-Mini Manual-MDMR (Citroen C1),-3,10,10,January
+B-Economy Manual-ECMR (Mazda2),-3,10,10,January
+C-Compact Manual-CDMR (Nissan Tiida),-3,10,10,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,10,10,January
+H-Economy Automatic-EDAR (Nissan Micra),-3,10,10,January
+F-Compact Automatic-CDAR (Nissan Tiida),-3,10,10,January
+A-Mini Manual-MDMR (Citroen C1),-3,10,10,February
+B-Economy Manual-ECMR (Mazda2),-3,10,10,February
+C-Compact Manual-CDMR (Nissan Tiida),-3,10,10,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,10,10,February
+H-Economy Automatic-EDAR (Nissan Micra),-3,10,10,February
+F-Compact Automatic-CDAR (Nissan Tiida),-3,10,10,February
+A-Mini Manual-MDMR (Citroen C1),-3,10,10,March
+B-Economy Manual-ECMR (Mazda2),-3,10,10,March
+C-Compact Manual-CDMR (Nissan Tiida),-3,10,10,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,10,10,March
+H-Economy Automatic-EDAR (Nissan Micra),-3,10,10,March
+F-Compact Automatic-CDAR (Nissan Tiida),-3,10,10,March
+A-Mini Manual-MDMR (Citroen C1),0,10,10,April
+B-Economy Manual-ECMR (Mazda2),0,10,10,April
+C-Compact Manual-CDMR (Nissan Tiida),0,10,10,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,10,10,April
+H-Economy Automatic-EDAR (Nissan Micra),0,10,10,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,10,10,April
+A-Mini Manual-MDMR (Citroen C1),0,10,10,May
+B-Economy Manual-ECMR (Mazda2),0,10,10,May
+C-Compact Manual-CDMR (Nissan Tiida),0,10,10,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,10,10,May
+H-Economy Automatic-EDAR (Nissan Micra),0,10,10,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,10,10,May
+A-Mini Manual-MDMR (Citroen C1),0,10,10,June
+B-Economy Manual-ECMR (Mazda2),0,10,10,June
+C-Compact Manual-CDMR (Nissan Tiida),0,10,10,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,10,10,June
+H-Economy Automatic-EDAR (Nissan Micra),0,10,10,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,10,10,June
+A-Mini Manual-MDMR (Citroen C1),0,10,10,July
+B-Economy Manual-ECMR (Mazda2),0,10,10,July
+C-Compact Manual-CDMR (Nissan Tiida),0,10,10,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,10,10,July
+H-Economy Automatic-EDAR (Nissan Micra),0,10,10,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,10,10,July
+A-Mini Manual-MDMR (Citroen C1),0,10,10,August
+B-Economy Manual-ECMR (Mazda2),0,10,10,August
+C-Compact Manual-CDMR (Nissan Tiida),0,10,10,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,10,10,August
+H-Economy Automatic-EDAR (Nissan Micra),0,10,10,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,10,10,August
+A-Mini Manual-MDMR (Citroen C1),0,10,10,September
+B-Economy Manual-ECMR (Mazda2),0,10,10,September
+C-Compact Manual-CDMR (Nissan Tiida),0,10,10,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,10,10,September
+H-Economy Automatic-EDAR (Nissan Micra),0,10,10,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,10,10,September
+A-Mini Manual-MDMR (Citroen C1),0,10,10,October
+B-Economy Manual-ECMR (Mazda2),0,10,10,October
+C-Compact Manual-CDMR (Nissan Tiida),0,10,10,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,10,10,October
+H-Economy Automatic-EDAR (Nissan Micra),0,10,10,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,10,10,October
+A-Mini Manual-MDMR (Citroen C1),-3,10,10,November
+B-Economy Manual-ECMR (Mazda2),-3,10,10,November
+C-Compact Manual-CDMR (Nissan Tiida),-3,10,10,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,10,10,November
+H-Economy Automatic-EDAR (Nissan Micra),-3,10,10,November
+F-Compact Automatic-CDAR (Nissan Tiida),-3,10,10,November
+A-Mini Manual-MDMR (Citroen C1),-3,10,10,December
+B-Economy Manual-ECMR (Mazda2),-3,10,10,December
+C-Compact Manual-CDMR (Nissan Tiida),-3,10,10,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,10,10,December
+H-Economy Automatic-EDAR (Nissan Micra),-3,10,10,December
+F-Compact Automatic-CDAR (Nissan Tiida),-3,10,10,December
+A-Mini Manual-MDMR (Citroen C1),-4,11,11,January
+B-Economy Manual-ECMR (Mazda2),-4,11,11,January
+C-Compact Manual-CDMR (Nissan Tiida),-4,11,11,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,11,11,January
+H-Economy Automatic-EDAR (Nissan Micra),-4,11,11,January
+F-Compact Automatic-CDAR (Nissan Tiida),-4,11,11,January
+A-Mini Manual-MDMR (Citroen C1),-4,11,11,February
+B-Economy Manual-ECMR (Mazda2),-4,11,11,February
+C-Compact Manual-CDMR (Nissan Tiida),-4,11,11,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,11,11,February
+H-Economy Automatic-EDAR (Nissan Micra),-4,11,11,February
+F-Compact Automatic-CDAR (Nissan Tiida),-4,11,11,February
+A-Mini Manual-MDMR (Citroen C1),-4,11,11,March
+B-Economy Manual-ECMR (Mazda2),-4,11,11,March
+C-Compact Manual-CDMR (Nissan Tiida),-4,11,11,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,11,11,March
+H-Economy Automatic-EDAR (Nissan Micra),-4,11,11,March
+F-Compact Automatic-CDAR (Nissan Tiida),-4,11,11,March
+A-Mini Manual-MDMR (Citroen C1),0,11,11,April
+B-Economy Manual-ECMR (Mazda2),0,11,11,April
+C-Compact Manual-CDMR (Nissan Tiida),0,11,11,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,11,11,April
+H-Economy Automatic-EDAR (Nissan Micra),0,11,11,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,11,11,April
+A-Mini Manual-MDMR (Citroen C1),0,11,11,May
+B-Economy Manual-ECMR (Mazda2),0,11,11,May
+C-Compact Manual-CDMR (Nissan Tiida),0,11,11,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,11,11,May
+H-Economy Automatic-EDAR (Nissan Micra),0,11,11,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,11,11,May
+A-Mini Manual-MDMR (Citroen C1),0,11,11,June
+B-Economy Manual-ECMR (Mazda2),0,11,11,June
+C-Compact Manual-CDMR (Nissan Tiida),0,11,11,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,11,11,June
+H-Economy Automatic-EDAR (Nissan Micra),0,11,11,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,11,11,June
+A-Mini Manual-MDMR (Citroen C1),0,11,11,July
+B-Economy Manual-ECMR (Mazda2),0,11,11,July
+C-Compact Manual-CDMR (Nissan Tiida),0,11,11,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,11,11,July
+H-Economy Automatic-EDAR (Nissan Micra),0,11,11,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,11,11,July
+A-Mini Manual-MDMR (Citroen C1),0,11,11,August
+B-Economy Manual-ECMR (Mazda2),0,11,11,August
+C-Compact Manual-CDMR (Nissan Tiida),0,11,11,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,11,11,August
+H-Economy Automatic-EDAR (Nissan Micra),0,11,11,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,11,11,August
+A-Mini Manual-MDMR (Citroen C1),0,11,11,September
+B-Economy Manual-ECMR (Mazda2),0,11,11,September
+C-Compact Manual-CDMR (Nissan Tiida),0,11,11,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,11,11,September
+H-Economy Automatic-EDAR (Nissan Micra),0,11,11,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,11,11,September
+A-Mini Manual-MDMR (Citroen C1),0,11,11,October
+B-Economy Manual-ECMR (Mazda2),0,11,11,October
+C-Compact Manual-CDMR (Nissan Tiida),0,11,11,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,11,11,October
+H-Economy Automatic-EDAR (Nissan Micra),0,11,11,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,11,11,October
+A-Mini Manual-MDMR (Citroen C1),-4,11,11,November
+B-Economy Manual-ECMR (Mazda2),-4,11,11,November
+C-Compact Manual-CDMR (Nissan Tiida),-4,11,11,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,11,11,November
+H-Economy Automatic-EDAR (Nissan Micra),-4,11,11,November
+F-Compact Automatic-CDAR (Nissan Tiida),-4,11,11,November
+A-Mini Manual-MDMR (Citroen C1),-4,11,11,December
+B-Economy Manual-ECMR (Mazda2),-4,11,11,December
+C-Compact Manual-CDMR (Nissan Tiida),-4,11,11,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,11,11,December
+H-Economy Automatic-EDAR (Nissan Micra),-4,11,11,December
+F-Compact Automatic-CDAR (Nissan Tiida),-4,11,11,December
+A-Mini Manual-MDMR (Citroen C1),-5,12,12,January
+B-Economy Manual-ECMR (Mazda2),-5,12,12,January
+C-Compact Manual-CDMR (Nissan Tiida),-5,12,12,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,12,12,January
+H-Economy Automatic-EDAR (Nissan Micra),-5,12,12,January
+F-Compact Automatic-CDAR (Nissan Tiida),-5,12,12,January
+A-Mini Manual-MDMR (Citroen C1),-5,12,12,February
+B-Economy Manual-ECMR (Mazda2),-5,12,12,February
+C-Compact Manual-CDMR (Nissan Tiida),-5,12,12,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,12,12,February
+H-Economy Automatic-EDAR (Nissan Micra),-5,12,12,February
+F-Compact Automatic-CDAR (Nissan Tiida),-5,12,12,February
+A-Mini Manual-MDMR (Citroen C1),-5,12,12,March
+B-Economy Manual-ECMR (Mazda2),-5,12,12,March
+C-Compact Manual-CDMR (Nissan Tiida),-5,12,12,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,12,12,March
+H-Economy Automatic-EDAR (Nissan Micra),-5,12,12,March
+F-Compact Automatic-CDAR (Nissan Tiida),-5,12,12,March
+A-Mini Manual-MDMR (Citroen C1),0,12,12,April
+B-Economy Manual-ECMR (Mazda2),0,12,12,April
+C-Compact Manual-CDMR (Nissan Tiida),0,12,12,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,12,12,April
+H-Economy Automatic-EDAR (Nissan Micra),0,12,12,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,12,12,April
+A-Mini Manual-MDMR (Citroen C1),0,12,12,May
+B-Economy Manual-ECMR (Mazda2),0,12,12,May
+C-Compact Manual-CDMR (Nissan Tiida),0,12,12,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,12,12,May
+H-Economy Automatic-EDAR (Nissan Micra),0,12,12,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,12,12,May
+A-Mini Manual-MDMR (Citroen C1),0,12,12,June
+B-Economy Manual-ECMR (Mazda2),0,12,12,June
+C-Compact Manual-CDMR (Nissan Tiida),0,12,12,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,12,12,June
+H-Economy Automatic-EDAR (Nissan Micra),0,12,12,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,12,12,June
+A-Mini Manual-MDMR (Citroen C1),0,12,12,July
+B-Economy Manual-ECMR (Mazda2),0,12,12,July
+C-Compact Manual-CDMR (Nissan Tiida),0,12,12,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,12,12,July
+H-Economy Automatic-EDAR (Nissan Micra),0,12,12,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,12,12,July
+A-Mini Manual-MDMR (Citroen C1),0,12,12,August
+B-Economy Manual-ECMR (Mazda2),0,12,12,August
+C-Compact Manual-CDMR (Nissan Tiida),0,12,12,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,12,12,August
+H-Economy Automatic-EDAR (Nissan Micra),0,12,12,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,12,12,August
+A-Mini Manual-MDMR (Citroen C1),0,12,12,September
+B-Economy Manual-ECMR (Mazda2),0,12,12,September
+C-Compact Manual-CDMR (Nissan Tiida),0,12,12,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,12,12,September
+H-Economy Automatic-EDAR (Nissan Micra),0,12,12,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,12,12,September
+A-Mini Manual-MDMR (Citroen C1),0,12,12,October
+B-Economy Manual-ECMR (Mazda2),0,12,12,October
+C-Compact Manual-CDMR (Nissan Tiida),0,12,12,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,12,12,October
+H-Economy Automatic-EDAR (Nissan Micra),0,12,12,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,12,12,October
+A-Mini Manual-MDMR (Citroen C1),-5,12,12,November
+B-Economy Manual-ECMR (Mazda2),-5,12,12,November
+C-Compact Manual-CDMR (Nissan Tiida),-5,12,12,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,12,12,November
+H-Economy Automatic-EDAR (Nissan Micra),-5,12,12,November
+F-Compact Automatic-CDAR (Nissan Tiida),-5,12,12,November
+A-Mini Manual-MDMR (Citroen C1),-5,12,12,December
+B-Economy Manual-ECMR (Mazda2),-5,12,12,December
+C-Compact Manual-CDMR (Nissan Tiida),-5,12,12,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,12,12,December
+H-Economy Automatic-EDAR (Nissan Micra),-5,12,12,December
+F-Compact Automatic-CDAR (Nissan Tiida),-5,12,12,December
+A-Mini Manual-MDMR (Citroen C1),0,13,13,January
+B-Economy Manual-ECMR (Mazda2),0,13,13,January
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,January
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,January
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,January
+A-Mini Manual-MDMR (Citroen C1),0,13,13,February
+B-Economy Manual-ECMR (Mazda2),0,13,13,February
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,February
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,February
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,February
+A-Mini Manual-MDMR (Citroen C1),0,13,13,March
+B-Economy Manual-ECMR (Mazda2),0,13,13,March
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,March
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,March
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,March
+A-Mini Manual-MDMR (Citroen C1),0,13,13,April
+B-Economy Manual-ECMR (Mazda2),0,13,13,April
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,April
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,April
+A-Mini Manual-MDMR (Citroen C1),0,13,13,May
+B-Economy Manual-ECMR (Mazda2),0,13,13,May
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,May
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,May
+A-Mini Manual-MDMR (Citroen C1),0,13,13,June
+B-Economy Manual-ECMR (Mazda2),0,13,13,June
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,June
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,June
+A-Mini Manual-MDMR (Citroen C1),0,13,13,July
+B-Economy Manual-ECMR (Mazda2),0,13,13,July
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,July
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,July
+A-Mini Manual-MDMR (Citroen C1),0,13,13,August
+B-Economy Manual-ECMR (Mazda2),0,13,13,August
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,August
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,August
+A-Mini Manual-MDMR (Citroen C1),0,13,13,September
+B-Economy Manual-ECMR (Mazda2),0,13,13,September
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,September
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,September
+A-Mini Manual-MDMR (Citroen C1),0,13,13,October
+B-Economy Manual-ECMR (Mazda2),0,13,13,October
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,October
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,October
+A-Mini Manual-MDMR (Citroen C1),0,13,13,November
+B-Economy Manual-ECMR (Mazda2),0,13,13,November
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,November
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,November
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,November
+A-Mini Manual-MDMR (Citroen C1),0,13,13,December
+B-Economy Manual-ECMR (Mazda2),0,13,13,December
+C-Compact Manual-CDMR (Nissan Tiida),0,13,13,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,13,13,December
+H-Economy Automatic-EDAR (Nissan Micra),0,13,13,December
+F-Compact Automatic-CDAR (Nissan Tiida),0,13,13,December
+A-Mini Manual-MDMR (Citroen C1),0,14,14,January
+B-Economy Manual-ECMR (Mazda2),0,14,14,January
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,January
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,January
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,January
+A-Mini Manual-MDMR (Citroen C1),0,14,14,February
+B-Economy Manual-ECMR (Mazda2),0,14,14,February
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,February
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,February
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,February
+A-Mini Manual-MDMR (Citroen C1),0,14,14,March
+B-Economy Manual-ECMR (Mazda2),0,14,14,March
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,March
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,March
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,March
+A-Mini Manual-MDMR (Citroen C1),0,14,14,April
+B-Economy Manual-ECMR (Mazda2),0,14,14,April
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,April
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,April
+A-Mini Manual-MDMR (Citroen C1),0,14,14,May
+B-Economy Manual-ECMR (Mazda2),0,14,14,May
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,May
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,May
+A-Mini Manual-MDMR (Citroen C1),0,14,14,June
+B-Economy Manual-ECMR (Mazda2),0,14,14,June
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,June
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,June
+A-Mini Manual-MDMR (Citroen C1),0,14,14,July
+B-Economy Manual-ECMR (Mazda2),0,14,14,July
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,July
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,July
+A-Mini Manual-MDMR (Citroen C1),0,14,14,August
+B-Economy Manual-ECMR (Mazda2),0,14,14,August
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,August
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,August
+A-Mini Manual-MDMR (Citroen C1),0,14,14,September
+B-Economy Manual-ECMR (Mazda2),0,14,14,September
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,September
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,September
+A-Mini Manual-MDMR (Citroen C1),0,14,14,October
+B-Economy Manual-ECMR (Mazda2),0,14,14,October
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,October
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,October
+A-Mini Manual-MDMR (Citroen C1),0,14,14,November
+B-Economy Manual-ECMR (Mazda2),0,14,14,November
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,November
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,November
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,November
+A-Mini Manual-MDMR (Citroen C1),0,14,14,December
+B-Economy Manual-ECMR (Mazda2),0,14,14,December
+C-Compact Manual-CDMR (Nissan Tiida),0,14,14,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,14,14,December
+H-Economy Automatic-EDAR (Nissan Micra),0,14,14,December
+F-Compact Automatic-CDAR (Nissan Tiida),0,14,14,December
+A-Mini Manual-MDMR (Citroen C1),-1,15,15,January
+B-Economy Manual-ECMR (Mazda2),-1,15,15,January
+C-Compact Manual-CDMR (Nissan Tiida),-1,15,15,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,15,15,January
+H-Economy Automatic-EDAR (Nissan Micra),-1,15,15,January
+F-Compact Automatic-CDAR (Nissan Tiida),-1,15,15,January
+A-Mini Manual-MDMR (Citroen C1),-1,15,15,February
+B-Economy Manual-ECMR (Mazda2),-1,15,15,February
+C-Compact Manual-CDMR (Nissan Tiida),-1,15,15,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,15,15,February
+H-Economy Automatic-EDAR (Nissan Micra),-1,15,15,February
+F-Compact Automatic-CDAR (Nissan Tiida),-1,15,15,February
+A-Mini Manual-MDMR (Citroen C1),-1,15,15,March
+B-Economy Manual-ECMR (Mazda2),-1,15,15,March
+C-Compact Manual-CDMR (Nissan Tiida),-1,15,15,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,15,15,March
+H-Economy Automatic-EDAR (Nissan Micra),-1,15,15,March
+F-Compact Automatic-CDAR (Nissan Tiida),-1,15,15,March
+A-Mini Manual-MDMR (Citroen C1),0,15,15,April
+B-Economy Manual-ECMR (Mazda2),0,15,15,April
+C-Compact Manual-CDMR (Nissan Tiida),0,15,15,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,15,15,April
+H-Economy Automatic-EDAR (Nissan Micra),0,15,15,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,15,15,April
+A-Mini Manual-MDMR (Citroen C1),0,15,15,May
+B-Economy Manual-ECMR (Mazda2),0,15,15,May
+C-Compact Manual-CDMR (Nissan Tiida),0,15,15,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,15,15,May
+H-Economy Automatic-EDAR (Nissan Micra),0,15,15,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,15,15,May
+A-Mini Manual-MDMR (Citroen C1),0,15,15,June
+B-Economy Manual-ECMR (Mazda2),0,15,15,June
+C-Compact Manual-CDMR (Nissan Tiida),0,15,15,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,15,15,June
+H-Economy Automatic-EDAR (Nissan Micra),0,15,15,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,15,15,June
+A-Mini Manual-MDMR (Citroen C1),0,15,15,July
+B-Economy Manual-ECMR (Mazda2),0,15,15,July
+C-Compact Manual-CDMR (Nissan Tiida),0,15,15,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,15,15,July
+H-Economy Automatic-EDAR (Nissan Micra),0,15,15,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,15,15,July
+A-Mini Manual-MDMR (Citroen C1),0,15,15,August
+B-Economy Manual-ECMR (Mazda2),0,15,15,August
+C-Compact Manual-CDMR (Nissan Tiida),0,15,15,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,15,15,August
+H-Economy Automatic-EDAR (Nissan Micra),0,15,15,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,15,15,August
+A-Mini Manual-MDMR (Citroen C1),0,15,15,September
+B-Economy Manual-ECMR (Mazda2),0,15,15,September
+C-Compact Manual-CDMR (Nissan Tiida),0,15,15,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,15,15,September
+H-Economy Automatic-EDAR (Nissan Micra),0,15,15,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,15,15,September
+A-Mini Manual-MDMR (Citroen C1),0,15,15,October
+B-Economy Manual-ECMR (Mazda2),0,15,15,October
+C-Compact Manual-CDMR (Nissan Tiida),0,15,15,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,15,15,October
+H-Economy Automatic-EDAR (Nissan Micra),0,15,15,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,15,15,October
+A-Mini Manual-MDMR (Citroen C1),-1,15,15,November
+B-Economy Manual-ECMR (Mazda2),-1,15,15,November
+C-Compact Manual-CDMR (Nissan Tiida),-1,15,15,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,15,15,November
+H-Economy Automatic-EDAR (Nissan Micra),-1,15,15,November
+F-Compact Automatic-CDAR (Nissan Tiida),-1,15,15,November
+A-Mini Manual-MDMR (Citroen C1),-1,15,15,December
+B-Economy Manual-ECMR (Mazda2),-1,15,15,December
+C-Compact Manual-CDMR (Nissan Tiida),-1,15,15,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-1,15,15,December
+H-Economy Automatic-EDAR (Nissan Micra),-1,15,15,December
+F-Compact Automatic-CDAR (Nissan Tiida),-1,15,15,December
+A-Mini Manual-MDMR (Citroen C1),-2,16,16,January
+B-Economy Manual-ECMR (Mazda2),-2,16,16,January
+C-Compact Manual-CDMR (Nissan Tiida),-2,16,16,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,16,16,January
+H-Economy Automatic-EDAR (Nissan Micra),-2,16,16,January
+F-Compact Automatic-CDAR (Nissan Tiida),-2,16,16,January
+A-Mini Manual-MDMR (Citroen C1),-2,16,16,February
+B-Economy Manual-ECMR (Mazda2),-2,16,16,February
+C-Compact Manual-CDMR (Nissan Tiida),-2,16,16,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,16,16,February
+H-Economy Automatic-EDAR (Nissan Micra),-2,16,16,February
+F-Compact Automatic-CDAR (Nissan Tiida),-2,16,16,February
+A-Mini Manual-MDMR (Citroen C1),-2,16,16,March
+B-Economy Manual-ECMR (Mazda2),-2,16,16,March
+C-Compact Manual-CDMR (Nissan Tiida),-2,16,16,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,16,16,March
+H-Economy Automatic-EDAR (Nissan Micra),-2,16,16,March
+F-Compact Automatic-CDAR (Nissan Tiida),-2,16,16,March
+A-Mini Manual-MDMR (Citroen C1),0,16,16,April
+B-Economy Manual-ECMR (Mazda2),0,16,16,April
+C-Compact Manual-CDMR (Nissan Tiida),0,16,16,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,16,16,April
+H-Economy Automatic-EDAR (Nissan Micra),0,16,16,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,16,16,April
+A-Mini Manual-MDMR (Citroen C1),0,16,16,May
+B-Economy Manual-ECMR (Mazda2),0,16,16,May
+C-Compact Manual-CDMR (Nissan Tiida),0,16,16,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,16,16,May
+H-Economy Automatic-EDAR (Nissan Micra),0,16,16,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,16,16,May
+A-Mini Manual-MDMR (Citroen C1),0,16,16,June
+B-Economy Manual-ECMR (Mazda2),0,16,16,June
+C-Compact Manual-CDMR (Nissan Tiida),0,16,16,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,16,16,June
+H-Economy Automatic-EDAR (Nissan Micra),0,16,16,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,16,16,June
+A-Mini Manual-MDMR (Citroen C1),0,16,16,July
+B-Economy Manual-ECMR (Mazda2),0,16,16,July
+C-Compact Manual-CDMR (Nissan Tiida),0,16,16,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,16,16,July
+H-Economy Automatic-EDAR (Nissan Micra),0,16,16,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,16,16,July
+A-Mini Manual-MDMR (Citroen C1),0,16,16,August
+B-Economy Manual-ECMR (Mazda2),0,16,16,August
+C-Compact Manual-CDMR (Nissan Tiida),0,16,16,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,16,16,August
+H-Economy Automatic-EDAR (Nissan Micra),0,16,16,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,16,16,August
+A-Mini Manual-MDMR (Citroen C1),0,16,16,September
+B-Economy Manual-ECMR (Mazda2),0,16,16,September
+C-Compact Manual-CDMR (Nissan Tiida),0,16,16,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,16,16,September
+H-Economy Automatic-EDAR (Nissan Micra),0,16,16,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,16,16,September
+A-Mini Manual-MDMR (Citroen C1),0,16,16,October
+B-Economy Manual-ECMR (Mazda2),0,16,16,October
+C-Compact Manual-CDMR (Nissan Tiida),0,16,16,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,16,16,October
+H-Economy Automatic-EDAR (Nissan Micra),0,16,16,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,16,16,October
+A-Mini Manual-MDMR (Citroen C1),-2,16,16,November
+B-Economy Manual-ECMR (Mazda2),-2,16,16,November
+C-Compact Manual-CDMR (Nissan Tiida),-2,16,16,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,16,16,November
+H-Economy Automatic-EDAR (Nissan Micra),-2,16,16,November
+F-Compact Automatic-CDAR (Nissan Tiida),-2,16,16,November
+A-Mini Manual-MDMR (Citroen C1),-2,16,16,December
+B-Economy Manual-ECMR (Mazda2),-2,16,16,December
+C-Compact Manual-CDMR (Nissan Tiida),-2,16,16,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-2,16,16,December
+H-Economy Automatic-EDAR (Nissan Micra),-2,16,16,December
+F-Compact Automatic-CDAR (Nissan Tiida),-2,16,16,December
+A-Mini Manual-MDMR (Citroen C1),-3,17,17,January
+B-Economy Manual-ECMR (Mazda2),-3,17,17,January
+C-Compact Manual-CDMR (Nissan Tiida),-3,17,17,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,17,17,January
+H-Economy Automatic-EDAR (Nissan Micra),-3,17,17,January
+F-Compact Automatic-CDAR (Nissan Tiida),-3,17,17,January
+A-Mini Manual-MDMR (Citroen C1),-3,17,17,February
+B-Economy Manual-ECMR (Mazda2),-3,17,17,February
+C-Compact Manual-CDMR (Nissan Tiida),-3,17,17,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,17,17,February
+H-Economy Automatic-EDAR (Nissan Micra),-3,17,17,February
+F-Compact Automatic-CDAR (Nissan Tiida),-3,17,17,February
+A-Mini Manual-MDMR (Citroen C1),-3,17,17,March
+B-Economy Manual-ECMR (Mazda2),-3,17,17,March
+C-Compact Manual-CDMR (Nissan Tiida),-3,17,17,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,17,17,March
+H-Economy Automatic-EDAR (Nissan Micra),-3,17,17,March
+F-Compact Automatic-CDAR (Nissan Tiida),-3,17,17,March
+A-Mini Manual-MDMR (Citroen C1),0,17,17,April
+B-Economy Manual-ECMR (Mazda2),0,17,17,April
+C-Compact Manual-CDMR (Nissan Tiida),0,17,17,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,17,17,April
+H-Economy Automatic-EDAR (Nissan Micra),0,17,17,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,17,17,April
+A-Mini Manual-MDMR (Citroen C1),0,17,17,May
+B-Economy Manual-ECMR (Mazda2),0,17,17,May
+C-Compact Manual-CDMR (Nissan Tiida),0,17,17,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,17,17,May
+H-Economy Automatic-EDAR (Nissan Micra),0,17,17,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,17,17,May
+A-Mini Manual-MDMR (Citroen C1),0,17,17,June
+B-Economy Manual-ECMR (Mazda2),0,17,17,June
+C-Compact Manual-CDMR (Nissan Tiida),0,17,17,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,17,17,June
+H-Economy Automatic-EDAR (Nissan Micra),0,17,17,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,17,17,June
+A-Mini Manual-MDMR (Citroen C1),0,17,17,July
+B-Economy Manual-ECMR (Mazda2),0,17,17,July
+C-Compact Manual-CDMR (Nissan Tiida),0,17,17,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,17,17,July
+H-Economy Automatic-EDAR (Nissan Micra),0,17,17,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,17,17,July
+A-Mini Manual-MDMR (Citroen C1),0,17,17,August
+B-Economy Manual-ECMR (Mazda2),0,17,17,August
+C-Compact Manual-CDMR (Nissan Tiida),0,17,17,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,17,17,August
+H-Economy Automatic-EDAR (Nissan Micra),0,17,17,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,17,17,August
+A-Mini Manual-MDMR (Citroen C1),0,17,17,September
+B-Economy Manual-ECMR (Mazda2),0,17,17,September
+C-Compact Manual-CDMR (Nissan Tiida),0,17,17,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,17,17,September
+H-Economy Automatic-EDAR (Nissan Micra),0,17,17,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,17,17,September
+A-Mini Manual-MDMR (Citroen C1),0,17,17,October
+B-Economy Manual-ECMR (Mazda2),0,17,17,October
+C-Compact Manual-CDMR (Nissan Tiida),0,17,17,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,17,17,October
+H-Economy Automatic-EDAR (Nissan Micra),0,17,17,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,17,17,October
+A-Mini Manual-MDMR (Citroen C1),-3,17,17,November
+B-Economy Manual-ECMR (Mazda2),-3,17,17,November
+C-Compact Manual-CDMR (Nissan Tiida),-3,17,17,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,17,17,November
+H-Economy Automatic-EDAR (Nissan Micra),-3,17,17,November
+F-Compact Automatic-CDAR (Nissan Tiida),-3,17,17,November
+A-Mini Manual-MDMR (Citroen C1),-3,17,17,December
+B-Economy Manual-ECMR (Mazda2),-3,17,17,December
+C-Compact Manual-CDMR (Nissan Tiida),-3,17,17,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-3,17,17,December
+H-Economy Automatic-EDAR (Nissan Micra),-3,17,17,December
+F-Compact Automatic-CDAR (Nissan Tiida),-3,17,17,December
+A-Mini Manual-MDMR (Citroen C1),-4,18,18,January
+B-Economy Manual-ECMR (Mazda2),-4,18,18,January
+C-Compact Manual-CDMR (Nissan Tiida),-4,18,18,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,18,18,January
+H-Economy Automatic-EDAR (Nissan Micra),-4,18,18,January
+F-Compact Automatic-CDAR (Nissan Tiida),-4,18,18,January
+A-Mini Manual-MDMR (Citroen C1),-4,18,18,February
+B-Economy Manual-ECMR (Mazda2),-4,18,18,February
+C-Compact Manual-CDMR (Nissan Tiida),-4,18,18,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,18,18,February
+H-Economy Automatic-EDAR (Nissan Micra),-4,18,18,February
+F-Compact Automatic-CDAR (Nissan Tiida),-4,18,18,February
+A-Mini Manual-MDMR (Citroen C1),-4,18,18,March
+B-Economy Manual-ECMR (Mazda2),-4,18,18,March
+C-Compact Manual-CDMR (Nissan Tiida),-4,18,18,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,18,18,March
+H-Economy Automatic-EDAR (Nissan Micra),-4,18,18,March
+F-Compact Automatic-CDAR (Nissan Tiida),-4,18,18,March
+A-Mini Manual-MDMR (Citroen C1),0,18,18,April
+B-Economy Manual-ECMR (Mazda2),0,18,18,April
+C-Compact Manual-CDMR (Nissan Tiida),0,18,18,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,18,18,April
+H-Economy Automatic-EDAR (Nissan Micra),0,18,18,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,18,18,April
+A-Mini Manual-MDMR (Citroen C1),0,18,18,May
+B-Economy Manual-ECMR (Mazda2),0,18,18,May
+C-Compact Manual-CDMR (Nissan Tiida),0,18,18,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,18,18,May
+H-Economy Automatic-EDAR (Nissan Micra),0,18,18,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,18,18,May
+A-Mini Manual-MDMR (Citroen C1),0,18,18,June
+B-Economy Manual-ECMR (Mazda2),0,18,18,June
+C-Compact Manual-CDMR (Nissan Tiida),0,18,18,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,18,18,June
+H-Economy Automatic-EDAR (Nissan Micra),0,18,18,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,18,18,June
+A-Mini Manual-MDMR (Citroen C1),0,18,18,July
+B-Economy Manual-ECMR (Mazda2),0,18,18,July
+C-Compact Manual-CDMR (Nissan Tiida),0,18,18,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,18,18,July
+H-Economy Automatic-EDAR (Nissan Micra),0,18,18,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,18,18,July
+A-Mini Manual-MDMR (Citroen C1),0,18,18,August
+B-Economy Manual-ECMR (Mazda2),0,18,18,August
+C-Compact Manual-CDMR (Nissan Tiida),0,18,18,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,18,18,August
+H-Economy Automatic-EDAR (Nissan Micra),0,18,18,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,18,18,August
+A-Mini Manual-MDMR (Citroen C1),0,18,18,September
+B-Economy Manual-ECMR (Mazda2),0,18,18,September
+C-Compact Manual-CDMR (Nissan Tiida),0,18,18,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,18,18,September
+H-Economy Automatic-EDAR (Nissan Micra),0,18,18,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,18,18,September
+A-Mini Manual-MDMR (Citroen C1),0,18,18,October
+B-Economy Manual-ECMR (Mazda2),0,18,18,October
+C-Compact Manual-CDMR (Nissan Tiida),0,18,18,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,18,18,October
+H-Economy Automatic-EDAR (Nissan Micra),0,18,18,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,18,18,October
+A-Mini Manual-MDMR (Citroen C1),-4,18,18,November
+B-Economy Manual-ECMR (Mazda2),-4,18,18,November
+C-Compact Manual-CDMR (Nissan Tiida),-4,18,18,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,18,18,November
+H-Economy Automatic-EDAR (Nissan Micra),-4,18,18,November
+F-Compact Automatic-CDAR (Nissan Tiida),-4,18,18,November
+A-Mini Manual-MDMR (Citroen C1),-4,18,18,December
+B-Economy Manual-ECMR (Mazda2),-4,18,18,December
+C-Compact Manual-CDMR (Nissan Tiida),-4,18,18,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-4,18,18,December
+H-Economy Automatic-EDAR (Nissan Micra),-4,18,18,December
+F-Compact Automatic-CDAR (Nissan Tiida),-4,18,18,December
+A-Mini Manual-MDMR (Citroen C1),-5,19,19,January
+B-Economy Manual-ECMR (Mazda2),-5,19,19,January
+C-Compact Manual-CDMR (Nissan Tiida),-5,19,19,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,19,19,January
+H-Economy Automatic-EDAR (Nissan Micra),-5,19,19,January
+F-Compact Automatic-CDAR (Nissan Tiida),-5,19,19,January
+A-Mini Manual-MDMR (Citroen C1),-5,19,19,February
+B-Economy Manual-ECMR (Mazda2),-5,19,19,February
+C-Compact Manual-CDMR (Nissan Tiida),-5,19,19,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,19,19,February
+H-Economy Automatic-EDAR (Nissan Micra),-5,19,19,February
+F-Compact Automatic-CDAR (Nissan Tiida),-5,19,19,February
+A-Mini Manual-MDMR (Citroen C1),-5,19,19,March
+B-Economy Manual-ECMR (Mazda2),-5,19,19,March
+C-Compact Manual-CDMR (Nissan Tiida),-5,19,19,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,19,19,March
+H-Economy Automatic-EDAR (Nissan Micra),-5,19,19,March
+F-Compact Automatic-CDAR (Nissan Tiida),-5,19,19,March
+A-Mini Manual-MDMR (Citroen C1),0,19,19,April
+B-Economy Manual-ECMR (Mazda2),0,19,19,April
+C-Compact Manual-CDMR (Nissan Tiida),0,19,19,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,19,19,April
+H-Economy Automatic-EDAR (Nissan Micra),0,19,19,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,19,19,April
+A-Mini Manual-MDMR (Citroen C1),0,19,19,May
+B-Economy Manual-ECMR (Mazda2),0,19,19,May
+C-Compact Manual-CDMR (Nissan Tiida),0,19,19,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,19,19,May
+H-Economy Automatic-EDAR (Nissan Micra),0,19,19,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,19,19,May
+A-Mini Manual-MDMR (Citroen C1),0,19,19,June
+B-Economy Manual-ECMR (Mazda2),0,19,19,June
+C-Compact Manual-CDMR (Nissan Tiida),0,19,19,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,19,19,June
+H-Economy Automatic-EDAR (Nissan Micra),0,19,19,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,19,19,June
+A-Mini Manual-MDMR (Citroen C1),0,19,19,July
+B-Economy Manual-ECMR (Mazda2),0,19,19,July
+C-Compact Manual-CDMR (Nissan Tiida),0,19,19,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,19,19,July
+H-Economy Automatic-EDAR (Nissan Micra),0,19,19,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,19,19,July
+A-Mini Manual-MDMR (Citroen C1),0,19,19,August
+B-Economy Manual-ECMR (Mazda2),0,19,19,August
+C-Compact Manual-CDMR (Nissan Tiida),0,19,19,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,19,19,August
+H-Economy Automatic-EDAR (Nissan Micra),0,19,19,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,19,19,August
+A-Mini Manual-MDMR (Citroen C1),0,19,19,September
+B-Economy Manual-ECMR (Mazda2),0,19,19,September
+C-Compact Manual-CDMR (Nissan Tiida),0,19,19,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,19,19,September
+H-Economy Automatic-EDAR (Nissan Micra),0,19,19,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,19,19,September
+A-Mini Manual-MDMR (Citroen C1),0,19,19,October
+B-Economy Manual-ECMR (Mazda2),0,19,19,October
+C-Compact Manual-CDMR (Nissan Tiida),0,19,19,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,19,19,October
+H-Economy Automatic-EDAR (Nissan Micra),0,19,19,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,19,19,October
+A-Mini Manual-MDMR (Citroen C1),-5,19,19,November
+B-Economy Manual-ECMR (Mazda2),-5,19,19,November
+C-Compact Manual-CDMR (Nissan Tiida),-5,19,19,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,19,19,November
+H-Economy Automatic-EDAR (Nissan Micra),-5,19,19,November
+F-Compact Automatic-CDAR (Nissan Tiida),-5,19,19,November
+A-Mini Manual-MDMR (Citroen C1),-5,19,19,December
+B-Economy Manual-ECMR (Mazda2),-5,19,19,December
+C-Compact Manual-CDMR (Nissan Tiida),-5,19,19,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-5,19,19,December
+H-Economy Automatic-EDAR (Nissan Micra),-5,19,19,December
+F-Compact Automatic-CDAR (Nissan Tiida),-5,19,19,December
+A-Mini Manual-MDMR (Citroen C1),-6,20,20,January
+B-Economy Manual-ECMR (Mazda2),-6,20,20,January
+C-Compact Manual-CDMR (Nissan Tiida),-6,20,20,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-6,20,20,January
+H-Economy Automatic-EDAR (Nissan Micra),-6,20,20,January
+F-Compact Automatic-CDAR (Nissan Tiida),-6,20,20,January
+A-Mini Manual-MDMR (Citroen C1),-6,20,20,February
+B-Economy Manual-ECMR (Mazda2),-6,20,20,February
+C-Compact Manual-CDMR (Nissan Tiida),-6,20,20,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-6,20,20,February
+H-Economy Automatic-EDAR (Nissan Micra),-6,20,20,February
+F-Compact Automatic-CDAR (Nissan Tiida),-6,20,20,February
+A-Mini Manual-MDMR (Citroen C1),-6,20,20,March
+B-Economy Manual-ECMR (Mazda2),-6,20,20,March
+C-Compact Manual-CDMR (Nissan Tiida),-6,20,20,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-6,20,20,March
+H-Economy Automatic-EDAR (Nissan Micra),-6,20,20,March
+F-Compact Automatic-CDAR (Nissan Tiida),-6,20,20,March
+A-Mini Manual-MDMR (Citroen C1),0,20,20,April
+B-Economy Manual-ECMR (Mazda2),0,20,20,April
+C-Compact Manual-CDMR (Nissan Tiida),0,20,20,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,20,20,April
+H-Economy Automatic-EDAR (Nissan Micra),0,20,20,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,20,20,April
+A-Mini Manual-MDMR (Citroen C1),0,20,20,May
+B-Economy Manual-ECMR (Mazda2),0,20,20,May
+C-Compact Manual-CDMR (Nissan Tiida),0,20,20,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,20,20,May
+H-Economy Automatic-EDAR (Nissan Micra),0,20,20,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,20,20,May
+A-Mini Manual-MDMR (Citroen C1),0,20,20,June
+B-Economy Manual-ECMR (Mazda2),0,20,20,June
+C-Compact Manual-CDMR (Nissan Tiida),0,20,20,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,20,20,June
+H-Economy Automatic-EDAR (Nissan Micra),0,20,20,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,20,20,June
+A-Mini Manual-MDMR (Citroen C1),0,20,20,July
+B-Economy Manual-ECMR (Mazda2),0,20,20,July
+C-Compact Manual-CDMR (Nissan Tiida),0,20,20,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,20,20,July
+H-Economy Automatic-EDAR (Nissan Micra),0,20,20,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,20,20,July
+A-Mini Manual-MDMR (Citroen C1),0,20,20,August
+B-Economy Manual-ECMR (Mazda2),0,20,20,August
+C-Compact Manual-CDMR (Nissan Tiida),0,20,20,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,20,20,August
+H-Economy Automatic-EDAR (Nissan Micra),0,20,20,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,20,20,August
+A-Mini Manual-MDMR (Citroen C1),0,20,20,September
+B-Economy Manual-ECMR (Mazda2),0,20,20,September
+C-Compact Manual-CDMR (Nissan Tiida),0,20,20,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,20,20,September
+H-Economy Automatic-EDAR (Nissan Micra),0,20,20,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,20,20,September
+A-Mini Manual-MDMR (Citroen C1),0,20,20,October
+B-Economy Manual-ECMR (Mazda2),0,20,20,October
+C-Compact Manual-CDMR (Nissan Tiida),0,20,20,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,20,20,October
+H-Economy Automatic-EDAR (Nissan Micra),0,20,20,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,20,20,October
+A-Mini Manual-MDMR (Citroen C1),-6,20,20,November
+B-Economy Manual-ECMR (Mazda2),-6,20,20,November
+C-Compact Manual-CDMR (Nissan Tiida),-6,20,20,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-6,20,20,November
+H-Economy Automatic-EDAR (Nissan Micra),-6,20,20,November
+F-Compact Automatic-CDAR (Nissan Tiida),-6,20,20,November
+A-Mini Manual-MDMR (Citroen C1),-6,20,20,December
+B-Economy Manual-ECMR (Mazda2),-6,20,20,December
+C-Compact Manual-CDMR (Nissan Tiida),-6,20,20,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-6,20,20,December
+H-Economy Automatic-EDAR (Nissan Micra),-6,20,20,December
+F-Compact Automatic-CDAR (Nissan Tiida),-6,20,20,December
+A-Mini Manual-MDMR (Citroen C1),-7,21,21,January
+B-Economy Manual-ECMR (Mazda2),-7,21,21,January
+C-Compact Manual-CDMR (Nissan Tiida),-7,21,21,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-7,21,21,January
+H-Economy Automatic-EDAR (Nissan Micra),-7,21,21,January
+F-Compact Automatic-CDAR (Nissan Tiida),-7,21,21,January
+A-Mini Manual-MDMR (Citroen C1),-7,21,21,February
+B-Economy Manual-ECMR (Mazda2),-7,21,21,February
+C-Compact Manual-CDMR (Nissan Tiida),-7,21,21,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-7,21,21,February
+H-Economy Automatic-EDAR (Nissan Micra),-7,21,21,February
+F-Compact Automatic-CDAR (Nissan Tiida),-7,21,21,February
+A-Mini Manual-MDMR (Citroen C1),-7,21,21,March
+B-Economy Manual-ECMR (Mazda2),-7,21,21,March
+C-Compact Manual-CDMR (Nissan Tiida),-7,21,21,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-7,21,21,March
+H-Economy Automatic-EDAR (Nissan Micra),-7,21,21,March
+F-Compact Automatic-CDAR (Nissan Tiida),-7,21,21,March
+A-Mini Manual-MDMR (Citroen C1),0,21,21,April
+B-Economy Manual-ECMR (Mazda2),0,21,21,April
+C-Compact Manual-CDMR (Nissan Tiida),0,21,21,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,21,21,April
+H-Economy Automatic-EDAR (Nissan Micra),0,21,21,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,21,21,April
+A-Mini Manual-MDMR (Citroen C1),0,21,21,May
+B-Economy Manual-ECMR (Mazda2),0,21,21,May
+C-Compact Manual-CDMR (Nissan Tiida),0,21,21,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,21,21,May
+H-Economy Automatic-EDAR (Nissan Micra),0,21,21,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,21,21,May
+A-Mini Manual-MDMR (Citroen C1),0,21,21,June
+B-Economy Manual-ECMR (Mazda2),0,21,21,June
+C-Compact Manual-CDMR (Nissan Tiida),0,21,21,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,21,21,June
+H-Economy Automatic-EDAR (Nissan Micra),0,21,21,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,21,21,June
+A-Mini Manual-MDMR (Citroen C1),0,21,21,July
+B-Economy Manual-ECMR (Mazda2),0,21,21,July
+C-Compact Manual-CDMR (Nissan Tiida),0,21,21,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,21,21,July
+H-Economy Automatic-EDAR (Nissan Micra),0,21,21,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,21,21,July
+A-Mini Manual-MDMR (Citroen C1),0,21,21,August
+B-Economy Manual-ECMR (Mazda2),0,21,21,August
+C-Compact Manual-CDMR (Nissan Tiida),0,21,21,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,21,21,August
+H-Economy Automatic-EDAR (Nissan Micra),0,21,21,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,21,21,August
+A-Mini Manual-MDMR (Citroen C1),0,21,21,September
+B-Economy Manual-ECMR (Mazda2),0,21,21,September
+C-Compact Manual-CDMR (Nissan Tiida),0,21,21,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,21,21,September
+H-Economy Automatic-EDAR (Nissan Micra),0,21,21,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,21,21,September
+A-Mini Manual-MDMR (Citroen C1),0,21,21,October
+B-Economy Manual-ECMR (Mazda2),0,21,21,October
+C-Compact Manual-CDMR (Nissan Tiida),0,21,21,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,21,21,October
+H-Economy Automatic-EDAR (Nissan Micra),0,21,21,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,21,21,October
+A-Mini Manual-MDMR (Citroen C1),-7,21,21,November
+B-Economy Manual-ECMR (Mazda2),-7,21,21,November
+C-Compact Manual-CDMR (Nissan Tiida),-7,21,21,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-7,21,21,November
+H-Economy Automatic-EDAR (Nissan Micra),-7,21,21,November
+F-Compact Automatic-CDAR (Nissan Tiida),-7,21,21,November
+A-Mini Manual-MDMR (Citroen C1),-7,21,21,December
+B-Economy Manual-ECMR (Mazda2),-7,21,21,December
+C-Compact Manual-CDMR (Nissan Tiida),-7,21,21,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-7,21,21,December
+H-Economy Automatic-EDAR (Nissan Micra),-7,21,21,December
+F-Compact Automatic-CDAR (Nissan Tiida),-7,21,21,December
+A-Mini Manual-MDMR (Citroen C1),-8,22,22,January
+B-Economy Manual-ECMR (Mazda2),-8,22,22,January
+C-Compact Manual-CDMR (Nissan Tiida),-8,22,22,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-8,22,22,January
+H-Economy Automatic-EDAR (Nissan Micra),-8,22,22,January
+F-Compact Automatic-CDAR (Nissan Tiida),-8,22,22,January
+A-Mini Manual-MDMR (Citroen C1),-8,22,22,February
+B-Economy Manual-ECMR (Mazda2),-8,22,22,February
+C-Compact Manual-CDMR (Nissan Tiida),-8,22,22,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-8,22,22,February
+H-Economy Automatic-EDAR (Nissan Micra),-8,22,22,February
+F-Compact Automatic-CDAR (Nissan Tiida),-8,22,22,February
+A-Mini Manual-MDMR (Citroen C1),-8,22,22,March
+B-Economy Manual-ECMR (Mazda2),-8,22,22,March
+C-Compact Manual-CDMR (Nissan Tiida),-8,22,22,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-8,22,22,March
+H-Economy Automatic-EDAR (Nissan Micra),-8,22,22,March
+F-Compact Automatic-CDAR (Nissan Tiida),-8,22,22,March
+A-Mini Manual-MDMR (Citroen C1),0,22,22,April
+B-Economy Manual-ECMR (Mazda2),0,22,22,April
+C-Compact Manual-CDMR (Nissan Tiida),0,22,22,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,22,22,April
+H-Economy Automatic-EDAR (Nissan Micra),0,22,22,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,22,22,April
+A-Mini Manual-MDMR (Citroen C1),0,22,22,May
+B-Economy Manual-ECMR (Mazda2),0,22,22,May
+C-Compact Manual-CDMR (Nissan Tiida),0,22,22,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,22,22,May
+H-Economy Automatic-EDAR (Nissan Micra),0,22,22,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,22,22,May
+A-Mini Manual-MDMR (Citroen C1),0,22,22,June
+B-Economy Manual-ECMR (Mazda2),0,22,22,June
+C-Compact Manual-CDMR (Nissan Tiida),0,22,22,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,22,22,June
+H-Economy Automatic-EDAR (Nissan Micra),0,22,22,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,22,22,June
+A-Mini Manual-MDMR (Citroen C1),0,22,22,July
+B-Economy Manual-ECMR (Mazda2),0,22,22,July
+C-Compact Manual-CDMR (Nissan Tiida),0,22,22,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,22,22,July
+H-Economy Automatic-EDAR (Nissan Micra),0,22,22,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,22,22,July
+A-Mini Manual-MDMR (Citroen C1),0,22,22,August
+B-Economy Manual-ECMR (Mazda2),0,22,22,August
+C-Compact Manual-CDMR (Nissan Tiida),0,22,22,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,22,22,August
+H-Economy Automatic-EDAR (Nissan Micra),0,22,22,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,22,22,August
+A-Mini Manual-MDMR (Citroen C1),0,22,22,September
+B-Economy Manual-ECMR (Mazda2),0,22,22,September
+C-Compact Manual-CDMR (Nissan Tiida),0,22,22,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,22,22,September
+H-Economy Automatic-EDAR (Nissan Micra),0,22,22,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,22,22,September
+A-Mini Manual-MDMR (Citroen C1),0,22,22,October
+B-Economy Manual-ECMR (Mazda2),0,22,22,October
+C-Compact Manual-CDMR (Nissan Tiida),0,22,22,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,22,22,October
+H-Economy Automatic-EDAR (Nissan Micra),0,22,22,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,22,22,October
+A-Mini Manual-MDMR (Citroen C1),-8,22,22,November
+B-Economy Manual-ECMR (Mazda2),-8,22,22,November
+C-Compact Manual-CDMR (Nissan Tiida),-8,22,22,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-8,22,22,November
+H-Economy Automatic-EDAR (Nissan Micra),-8,22,22,November
+F-Compact Automatic-CDAR (Nissan Tiida),-8,22,22,November
+A-Mini Manual-MDMR (Citroen C1),-8,22,22,December
+B-Economy Manual-ECMR (Mazda2),-8,22,22,December
+C-Compact Manual-CDMR (Nissan Tiida),-8,22,22,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-8,22,22,December
+H-Economy Automatic-EDAR (Nissan Micra),-8,22,22,December
+F-Compact Automatic-CDAR (Nissan Tiida),-8,22,22,December
+A-Mini Manual-MDMR (Citroen C1),-9,23,23,January
+B-Economy Manual-ECMR (Mazda2),-9,23,23,January
+C-Compact Manual-CDMR (Nissan Tiida),-9,23,23,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-9,23,23,January
+H-Economy Automatic-EDAR (Nissan Micra),-9,23,23,January
+F-Compact Automatic-CDAR (Nissan Tiida),-9,23,23,January
+A-Mini Manual-MDMR (Citroen C1),-9,23,23,February
+B-Economy Manual-ECMR (Mazda2),-9,23,23,February
+C-Compact Manual-CDMR (Nissan Tiida),-9,23,23,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-9,23,23,February
+H-Economy Automatic-EDAR (Nissan Micra),-9,23,23,February
+F-Compact Automatic-CDAR (Nissan Tiida),-9,23,23,February
+A-Mini Manual-MDMR (Citroen C1),-9,23,23,March
+B-Economy Manual-ECMR (Mazda2),-9,23,23,March
+C-Compact Manual-CDMR (Nissan Tiida),-9,23,23,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-9,23,23,March
+H-Economy Automatic-EDAR (Nissan Micra),-9,23,23,March
+F-Compact Automatic-CDAR (Nissan Tiida),-9,23,23,March
+A-Mini Manual-MDMR (Citroen C1),0,23,23,April
+B-Economy Manual-ECMR (Mazda2),0,23,23,April
+C-Compact Manual-CDMR (Nissan Tiida),0,23,23,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,23,23,April
+H-Economy Automatic-EDAR (Nissan Micra),0,23,23,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,23,23,April
+A-Mini Manual-MDMR (Citroen C1),0,23,23,May
+B-Economy Manual-ECMR (Mazda2),0,23,23,May
+C-Compact Manual-CDMR (Nissan Tiida),0,23,23,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,23,23,May
+H-Economy Automatic-EDAR (Nissan Micra),0,23,23,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,23,23,May
+A-Mini Manual-MDMR (Citroen C1),0,23,23,June
+B-Economy Manual-ECMR (Mazda2),0,23,23,June
+C-Compact Manual-CDMR (Nissan Tiida),0,23,23,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,23,23,June
+H-Economy Automatic-EDAR (Nissan Micra),0,23,23,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,23,23,June
+A-Mini Manual-MDMR (Citroen C1),0,23,23,July
+B-Economy Manual-ECMR (Mazda2),0,23,23,July
+C-Compact Manual-CDMR (Nissan Tiida),0,23,23,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,23,23,July
+H-Economy Automatic-EDAR (Nissan Micra),0,23,23,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,23,23,July
+A-Mini Manual-MDMR (Citroen C1),0,23,23,August
+B-Economy Manual-ECMR (Mazda2),0,23,23,August
+C-Compact Manual-CDMR (Nissan Tiida),0,23,23,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,23,23,August
+H-Economy Automatic-EDAR (Nissan Micra),0,23,23,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,23,23,August
+A-Mini Manual-MDMR (Citroen C1),0,23,23,September
+B-Economy Manual-ECMR (Mazda2),0,23,23,September
+C-Compact Manual-CDMR (Nissan Tiida),0,23,23,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,23,23,September
+H-Economy Automatic-EDAR (Nissan Micra),0,23,23,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,23,23,September
+A-Mini Manual-MDMR (Citroen C1),0,23,23,October
+B-Economy Manual-ECMR (Mazda2),0,23,23,October
+C-Compact Manual-CDMR (Nissan Tiida),0,23,23,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,23,23,October
+H-Economy Automatic-EDAR (Nissan Micra),0,23,23,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,23,23,October
+A-Mini Manual-MDMR (Citroen C1),-9,23,23,November
+B-Economy Manual-ECMR (Mazda2),-9,23,23,November
+C-Compact Manual-CDMR (Nissan Tiida),-9,23,23,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-9,23,23,November
+H-Economy Automatic-EDAR (Nissan Micra),-9,23,23,November
+F-Compact Automatic-CDAR (Nissan Tiida),-9,23,23,November
+A-Mini Manual-MDMR (Citroen C1),-9,23,23,December
+B-Economy Manual-ECMR (Mazda2),-9,23,23,December
+C-Compact Manual-CDMR (Nissan Tiida),-9,23,23,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-9,23,23,December
+H-Economy Automatic-EDAR (Nissan Micra),-9,23,23,December
+F-Compact Automatic-CDAR (Nissan Tiida),-9,23,23,December
+A-Mini Manual-MDMR (Citroen C1),-10,24,24,January
+B-Economy Manual-ECMR (Mazda2),-10,24,24,January
+C-Compact Manual-CDMR (Nissan Tiida),-10,24,24,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,24,24,January
+H-Economy Automatic-EDAR (Nissan Micra),-10,24,24,January
+F-Compact Automatic-CDAR (Nissan Tiida),-10,24,24,January
+A-Mini Manual-MDMR (Citroen C1),-10,24,24,February
+B-Economy Manual-ECMR (Mazda2),-10,24,24,February
+C-Compact Manual-CDMR (Nissan Tiida),-10,24,24,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,24,24,February
+H-Economy Automatic-EDAR (Nissan Micra),-10,24,24,February
+F-Compact Automatic-CDAR (Nissan Tiida),-10,24,24,February
+A-Mini Manual-MDMR (Citroen C1),-10,24,24,March
+B-Economy Manual-ECMR (Mazda2),-10,24,24,March
+C-Compact Manual-CDMR (Nissan Tiida),-10,24,24,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,24,24,March
+H-Economy Automatic-EDAR (Nissan Micra),-10,24,24,March
+F-Compact Automatic-CDAR (Nissan Tiida),-10,24,24,March
+A-Mini Manual-MDMR (Citroen C1),0,24,24,April
+B-Economy Manual-ECMR (Mazda2),0,24,24,April
+C-Compact Manual-CDMR (Nissan Tiida),0,24,24,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,24,24,April
+H-Economy Automatic-EDAR (Nissan Micra),0,24,24,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,24,24,April
+A-Mini Manual-MDMR (Citroen C1),0,24,24,May
+B-Economy Manual-ECMR (Mazda2),0,24,24,May
+C-Compact Manual-CDMR (Nissan Tiida),0,24,24,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,24,24,May
+H-Economy Automatic-EDAR (Nissan Micra),0,24,24,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,24,24,May
+A-Mini Manual-MDMR (Citroen C1),0,24,24,June
+B-Economy Manual-ECMR (Mazda2),0,24,24,June
+C-Compact Manual-CDMR (Nissan Tiida),0,24,24,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,24,24,June
+H-Economy Automatic-EDAR (Nissan Micra),0,24,24,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,24,24,June
+A-Mini Manual-MDMR (Citroen C1),0,24,24,July
+B-Economy Manual-ECMR (Mazda2),0,24,24,July
+C-Compact Manual-CDMR (Nissan Tiida),0,24,24,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,24,24,July
+H-Economy Automatic-EDAR (Nissan Micra),0,24,24,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,24,24,July
+A-Mini Manual-MDMR (Citroen C1),0,24,24,August
+B-Economy Manual-ECMR (Mazda2),0,24,24,August
+C-Compact Manual-CDMR (Nissan Tiida),0,24,24,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,24,24,August
+H-Economy Automatic-EDAR (Nissan Micra),0,24,24,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,24,24,August
+A-Mini Manual-MDMR (Citroen C1),0,24,24,September
+B-Economy Manual-ECMR (Mazda2),0,24,24,September
+C-Compact Manual-CDMR (Nissan Tiida),0,24,24,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,24,24,September
+H-Economy Automatic-EDAR (Nissan Micra),0,24,24,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,24,24,September
+A-Mini Manual-MDMR (Citroen C1),0,24,24,October
+B-Economy Manual-ECMR (Mazda2),0,24,24,October
+C-Compact Manual-CDMR (Nissan Tiida),0,24,24,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,24,24,October
+H-Economy Automatic-EDAR (Nissan Micra),0,24,24,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,24,24,October
+A-Mini Manual-MDMR (Citroen C1),-10,24,24,November
+B-Economy Manual-ECMR (Mazda2),-10,24,24,November
+C-Compact Manual-CDMR (Nissan Tiida),-10,24,24,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,24,24,November
+H-Economy Automatic-EDAR (Nissan Micra),-10,24,24,November
+F-Compact Automatic-CDAR (Nissan Tiida),-10,24,24,November
+A-Mini Manual-MDMR (Citroen C1),-10,24,24,December
+B-Economy Manual-ECMR (Mazda2),-10,24,24,December
+C-Compact Manual-CDMR (Nissan Tiida),-10,24,24,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,24,24,December
+H-Economy Automatic-EDAR (Nissan Micra),-10,24,24,December
+F-Compact Automatic-CDAR (Nissan Tiida),-10,24,24,December
+A-Mini Manual-MDMR (Citroen C1),-10,25,25,January
+B-Economy Manual-ECMR (Mazda2),-10,25,25,January
+C-Compact Manual-CDMR (Nissan Tiida),-10,25,25,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,25,25,January
+H-Economy Automatic-EDAR (Nissan Micra),-10,25,25,January
+F-Compact Automatic-CDAR (Nissan Tiida),-10,25,25,January
+A-Mini Manual-MDMR (Citroen C1),-10,25,25,February
+B-Economy Manual-ECMR (Mazda2),-10,25,25,February
+C-Compact Manual-CDMR (Nissan Tiida),-10,25,25,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,25,25,February
+H-Economy Automatic-EDAR (Nissan Micra),-10,25,25,February
+F-Compact Automatic-CDAR (Nissan Tiida),-10,25,25,February
+A-Mini Manual-MDMR (Citroen C1),-10,25,25,March
+B-Economy Manual-ECMR (Mazda2),-10,25,25,March
+C-Compact Manual-CDMR (Nissan Tiida),-10,25,25,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,25,25,March
+H-Economy Automatic-EDAR (Nissan Micra),-10,25,25,March
+F-Compact Automatic-CDAR (Nissan Tiida),-10,25,25,March
+A-Mini Manual-MDMR (Citroen C1),0,25,25,April
+B-Economy Manual-ECMR (Mazda2),0,25,25,April
+C-Compact Manual-CDMR (Nissan Tiida),0,25,25,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,25,25,April
+H-Economy Automatic-EDAR (Nissan Micra),0,25,25,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,25,25,April
+A-Mini Manual-MDMR (Citroen C1),0,25,25,May
+B-Economy Manual-ECMR (Mazda2),0,25,25,May
+C-Compact Manual-CDMR (Nissan Tiida),0,25,25,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,25,25,May
+H-Economy Automatic-EDAR (Nissan Micra),0,25,25,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,25,25,May
+A-Mini Manual-MDMR (Citroen C1),0,25,25,June
+B-Economy Manual-ECMR (Mazda2),0,25,25,June
+C-Compact Manual-CDMR (Nissan Tiida),0,25,25,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,25,25,June
+H-Economy Automatic-EDAR (Nissan Micra),0,25,25,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,25,25,June
+A-Mini Manual-MDMR (Citroen C1),0,25,25,July
+B-Economy Manual-ECMR (Mazda2),0,25,25,July
+C-Compact Manual-CDMR (Nissan Tiida),0,25,25,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,25,25,July
+H-Economy Automatic-EDAR (Nissan Micra),0,25,25,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,25,25,July
+A-Mini Manual-MDMR (Citroen C1),0,25,25,August
+B-Economy Manual-ECMR (Mazda2),0,25,25,August
+C-Compact Manual-CDMR (Nissan Tiida),0,25,25,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,25,25,August
+H-Economy Automatic-EDAR (Nissan Micra),0,25,25,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,25,25,August
+A-Mini Manual-MDMR (Citroen C1),0,25,25,September
+B-Economy Manual-ECMR (Mazda2),0,25,25,September
+C-Compact Manual-CDMR (Nissan Tiida),0,25,25,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,25,25,September
+H-Economy Automatic-EDAR (Nissan Micra),0,25,25,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,25,25,September
+A-Mini Manual-MDMR (Citroen C1),0,25,25,October
+B-Economy Manual-ECMR (Mazda2),0,25,25,October
+C-Compact Manual-CDMR (Nissan Tiida),0,25,25,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,25,25,October
+H-Economy Automatic-EDAR (Nissan Micra),0,25,25,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,25,25,October
+A-Mini Manual-MDMR (Citroen C1),-10,25,25,November
+B-Economy Manual-ECMR (Mazda2),-10,25,25,November
+C-Compact Manual-CDMR (Nissan Tiida),-10,25,25,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,25,25,November
+H-Economy Automatic-EDAR (Nissan Micra),-10,25,25,November
+F-Compact Automatic-CDAR (Nissan Tiida),-10,25,25,November
+A-Mini Manual-MDMR (Citroen C1),-10,25,25,December
+B-Economy Manual-ECMR (Mazda2),-10,25,25,December
+C-Compact Manual-CDMR (Nissan Tiida),-10,25,25,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,25,25,December
+H-Economy Automatic-EDAR (Nissan Micra),-10,25,25,December
+F-Compact Automatic-CDAR (Nissan Tiida),-10,25,25,December
+A-Mini Manual-MDMR (Citroen C1),-10,26,26,January
+B-Economy Manual-ECMR (Mazda2),-10,26,26,January
+C-Compact Manual-CDMR (Nissan Tiida),-10,26,26,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,26,26,January
+H-Economy Automatic-EDAR (Nissan Micra),-10,26,26,January
+F-Compact Automatic-CDAR (Nissan Tiida),-10,26,26,January
+A-Mini Manual-MDMR (Citroen C1),-10,26,26,February
+B-Economy Manual-ECMR (Mazda2),-10,26,26,February
+C-Compact Manual-CDMR (Nissan Tiida),-10,26,26,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,26,26,February
+H-Economy Automatic-EDAR (Nissan Micra),-10,26,26,February
+F-Compact Automatic-CDAR (Nissan Tiida),-10,26,26,February
+A-Mini Manual-MDMR (Citroen C1),-10,26,26,March
+B-Economy Manual-ECMR (Mazda2),-10,26,26,March
+C-Compact Manual-CDMR (Nissan Tiida),-10,26,26,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,26,26,March
+H-Economy Automatic-EDAR (Nissan Micra),-10,26,26,March
+F-Compact Automatic-CDAR (Nissan Tiida),-10,26,26,March
+A-Mini Manual-MDMR (Citroen C1),0,26,26,April
+B-Economy Manual-ECMR (Mazda2),0,26,26,April
+C-Compact Manual-CDMR (Nissan Tiida),0,26,26,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,26,26,April
+H-Economy Automatic-EDAR (Nissan Micra),0,26,26,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,26,26,April
+A-Mini Manual-MDMR (Citroen C1),0,26,26,May
+B-Economy Manual-ECMR (Mazda2),0,26,26,May
+C-Compact Manual-CDMR (Nissan Tiida),0,26,26,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,26,26,May
+H-Economy Automatic-EDAR (Nissan Micra),0,26,26,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,26,26,May
+A-Mini Manual-MDMR (Citroen C1),0,26,26,June
+B-Economy Manual-ECMR (Mazda2),0,26,26,June
+C-Compact Manual-CDMR (Nissan Tiida),0,26,26,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,26,26,June
+H-Economy Automatic-EDAR (Nissan Micra),0,26,26,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,26,26,June
+A-Mini Manual-MDMR (Citroen C1),0,26,26,July
+B-Economy Manual-ECMR (Mazda2),0,26,26,July
+C-Compact Manual-CDMR (Nissan Tiida),0,26,26,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,26,26,July
+H-Economy Automatic-EDAR (Nissan Micra),0,26,26,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,26,26,July
+A-Mini Manual-MDMR (Citroen C1),0,26,26,August
+B-Economy Manual-ECMR (Mazda2),0,26,26,August
+C-Compact Manual-CDMR (Nissan Tiida),0,26,26,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,26,26,August
+H-Economy Automatic-EDAR (Nissan Micra),0,26,26,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,26,26,August
+A-Mini Manual-MDMR (Citroen C1),0,26,26,September
+B-Economy Manual-ECMR (Mazda2),0,26,26,September
+C-Compact Manual-CDMR (Nissan Tiida),0,26,26,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,26,26,September
+H-Economy Automatic-EDAR (Nissan Micra),0,26,26,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,26,26,September
+A-Mini Manual-MDMR (Citroen C1),0,26,26,October
+B-Economy Manual-ECMR (Mazda2),0,26,26,October
+C-Compact Manual-CDMR (Nissan Tiida),0,26,26,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,26,26,October
+H-Economy Automatic-EDAR (Nissan Micra),0,26,26,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,26,26,October
+A-Mini Manual-MDMR (Citroen C1),-10,26,26,November
+B-Economy Manual-ECMR (Mazda2),-10,26,26,November
+C-Compact Manual-CDMR (Nissan Tiida),-10,26,26,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,26,26,November
+H-Economy Automatic-EDAR (Nissan Micra),-10,26,26,November
+F-Compact Automatic-CDAR (Nissan Tiida),-10,26,26,November
+A-Mini Manual-MDMR (Citroen C1),-10,26,26,December
+B-Economy Manual-ECMR (Mazda2),-10,26,26,December
+C-Compact Manual-CDMR (Nissan Tiida),-10,26,26,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,26,26,December
+H-Economy Automatic-EDAR (Nissan Micra),-10,26,26,December
+F-Compact Automatic-CDAR (Nissan Tiida),-10,26,26,December
+A-Mini Manual-MDMR (Citroen C1),-10,27,27,January
+B-Economy Manual-ECMR (Mazda2),-10,27,27,January
+C-Compact Manual-CDMR (Nissan Tiida),-10,27,27,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,27,27,January
+H-Economy Automatic-EDAR (Nissan Micra),-10,27,27,January
+F-Compact Automatic-CDAR (Nissan Tiida),-10,27,27,January
+A-Mini Manual-MDMR (Citroen C1),-10,27,27,February
+B-Economy Manual-ECMR (Mazda2),-10,27,27,February
+C-Compact Manual-CDMR (Nissan Tiida),-10,27,27,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,27,27,February
+H-Economy Automatic-EDAR (Nissan Micra),-10,27,27,February
+F-Compact Automatic-CDAR (Nissan Tiida),-10,27,27,February
+A-Mini Manual-MDMR (Citroen C1),-10,27,27,March
+B-Economy Manual-ECMR (Mazda2),-10,27,27,March
+C-Compact Manual-CDMR (Nissan Tiida),-10,27,27,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,27,27,March
+H-Economy Automatic-EDAR (Nissan Micra),-10,27,27,March
+F-Compact Automatic-CDAR (Nissan Tiida),-10,27,27,March
+A-Mini Manual-MDMR (Citroen C1),0,27,27,April
+B-Economy Manual-ECMR (Mazda2),0,27,27,April
+C-Compact Manual-CDMR (Nissan Tiida),0,27,27,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,27,27,April
+H-Economy Automatic-EDAR (Nissan Micra),0,27,27,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,27,27,April
+A-Mini Manual-MDMR (Citroen C1),0,27,27,May
+B-Economy Manual-ECMR (Mazda2),0,27,27,May
+C-Compact Manual-CDMR (Nissan Tiida),0,27,27,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,27,27,May
+H-Economy Automatic-EDAR (Nissan Micra),0,27,27,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,27,27,May
+A-Mini Manual-MDMR (Citroen C1),0,27,27,June
+B-Economy Manual-ECMR (Mazda2),0,27,27,June
+C-Compact Manual-CDMR (Nissan Tiida),0,27,27,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,27,27,June
+H-Economy Automatic-EDAR (Nissan Micra),0,27,27,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,27,27,June
+A-Mini Manual-MDMR (Citroen C1),0,27,27,July
+B-Economy Manual-ECMR (Mazda2),0,27,27,July
+C-Compact Manual-CDMR (Nissan Tiida),0,27,27,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,27,27,July
+H-Economy Automatic-EDAR (Nissan Micra),0,27,27,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,27,27,July
+A-Mini Manual-MDMR (Citroen C1),0,27,27,August
+B-Economy Manual-ECMR (Mazda2),0,27,27,August
+C-Compact Manual-CDMR (Nissan Tiida),0,27,27,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,27,27,August
+H-Economy Automatic-EDAR (Nissan Micra),0,27,27,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,27,27,August
+A-Mini Manual-MDMR (Citroen C1),0,27,27,September
+B-Economy Manual-ECMR (Mazda2),0,27,27,September
+C-Compact Manual-CDMR (Nissan Tiida),0,27,27,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,27,27,September
+H-Economy Automatic-EDAR (Nissan Micra),0,27,27,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,27,27,September
+A-Mini Manual-MDMR (Citroen C1),0,27,27,October
+B-Economy Manual-ECMR (Mazda2),0,27,27,October
+C-Compact Manual-CDMR (Nissan Tiida),0,27,27,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,27,27,October
+H-Economy Automatic-EDAR (Nissan Micra),0,27,27,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,27,27,October
+A-Mini Manual-MDMR (Citroen C1),-10,27,27,November
+B-Economy Manual-ECMR (Mazda2),-10,27,27,November
+C-Compact Manual-CDMR (Nissan Tiida),-10,27,27,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,27,27,November
+H-Economy Automatic-EDAR (Nissan Micra),-10,27,27,November
+F-Compact Automatic-CDAR (Nissan Tiida),-10,27,27,November
+A-Mini Manual-MDMR (Citroen C1),-10,27,27,December
+B-Economy Manual-ECMR (Mazda2),-10,27,27,December
+C-Compact Manual-CDMR (Nissan Tiida),-10,27,27,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,27,27,December
+H-Economy Automatic-EDAR (Nissan Micra),-10,27,27,December
+F-Compact Automatic-CDAR (Nissan Tiida),-10,27,27,December
+A-Mini Manual-MDMR (Citroen C1),-10,28,30,January
+B-Economy Manual-ECMR (Mazda2),-10,28,30,January
+C-Compact Manual-CDMR (Nissan Tiida),-10,28,30,January
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,28,30,January
+H-Economy Automatic-EDAR (Nissan Micra),-10,28,30,January
+F-Compact Automatic-CDAR (Nissan Tiida),-10,28,30,January
+A-Mini Manual-MDMR (Citroen C1),-10,28,30,February
+B-Economy Manual-ECMR (Mazda2),-10,28,30,February
+C-Compact Manual-CDMR (Nissan Tiida),-10,28,30,February
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,28,30,February
+H-Economy Automatic-EDAR (Nissan Micra),-10,28,30,February
+F-Compact Automatic-CDAR (Nissan Tiida),-10,28,30,February
+A-Mini Manual-MDMR (Citroen C1),-10,28,30,March
+B-Economy Manual-ECMR (Mazda2),-10,28,30,March
+C-Compact Manual-CDMR (Nissan Tiida),-10,28,30,March
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,28,30,March
+H-Economy Automatic-EDAR (Nissan Micra),-10,28,30,March
+F-Compact Automatic-CDAR (Nissan Tiida),-10,28,30,March
+A-Mini Manual-MDMR (Citroen C1),0,28,30,April
+B-Economy Manual-ECMR (Mazda2),0,28,30,April
+C-Compact Manual-CDMR (Nissan Tiida),0,28,30,April
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,28,30,April
+H-Economy Automatic-EDAR (Nissan Micra),0,28,30,April
+F-Compact Automatic-CDAR (Nissan Tiida),0,28,30,April
+A-Mini Manual-MDMR (Citroen C1),0,28,30,May
+B-Economy Manual-ECMR (Mazda2),0,28,30,May
+C-Compact Manual-CDMR (Nissan Tiida),0,28,30,May
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,28,30,May
+H-Economy Automatic-EDAR (Nissan Micra),0,28,30,May
+F-Compact Automatic-CDAR (Nissan Tiida),0,28,30,May
+A-Mini Manual-MDMR (Citroen C1),0,28,30,June
+B-Economy Manual-ECMR (Mazda2),0,28,30,June
+C-Compact Manual-CDMR (Nissan Tiida),0,28,30,June
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,28,30,June
+H-Economy Automatic-EDAR (Nissan Micra),0,28,30,June
+F-Compact Automatic-CDAR (Nissan Tiida),0,28,30,June
+A-Mini Manual-MDMR (Citroen C1),0,28,30,July
+B-Economy Manual-ECMR (Mazda2),0,28,30,July
+C-Compact Manual-CDMR (Nissan Tiida),0,28,30,July
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,28,30,July
+H-Economy Automatic-EDAR (Nissan Micra),0,28,30,July
+F-Compact Automatic-CDAR (Nissan Tiida),0,28,30,July
+A-Mini Manual-MDMR (Citroen C1),0,28,30,August
+B-Economy Manual-ECMR (Mazda2),0,28,30,August
+C-Compact Manual-CDMR (Nissan Tiida),0,28,30,August
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,28,30,August
+H-Economy Automatic-EDAR (Nissan Micra),0,28,30,August
+F-Compact Automatic-CDAR (Nissan Tiida),0,28,30,August
+A-Mini Manual-MDMR (Citroen C1),0,28,30,September
+B-Economy Manual-ECMR (Mazda2),0,28,30,September
+C-Compact Manual-CDMR (Nissan Tiida),0,28,30,September
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,28,30,September
+H-Economy Automatic-EDAR (Nissan Micra),0,28,30,September
+F-Compact Automatic-CDAR (Nissan Tiida),0,28,30,September
+A-Mini Manual-MDMR (Citroen C1),0,28,30,October
+B-Economy Manual-ECMR (Mazda2),0,28,30,October
+C-Compact Manual-CDMR (Nissan Tiida),0,28,30,October
+N-MINI+Automatic-MDAR (Chevrolet Spark),0,28,30,October
+H-Economy Automatic-EDAR (Nissan Micra),0,28,30,October
+F-Compact Automatic-CDAR (Nissan Tiida),0,28,30,October
+A-Mini Manual-MDMR (Citroen C1),-10,28,30,November
+B-Economy Manual-ECMR (Mazda2),-10,28,30,November
+C-Compact Manual-CDMR (Nissan Tiida),-10,28,30,November
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,28,30,November
+H-Economy Automatic-EDAR (Nissan Micra),-10,28,30,November
+F-Compact Automatic-CDAR (Nissan Tiida),-10,28,30,November
+A-Mini Manual-MDMR (Citroen C1),-10,28,30,December
+B-Economy Manual-ECMR (Mazda2),-10,28,30,December
+C-Compact Manual-CDMR (Nissan Tiida),-10,28,30,December
+N-MINI+Automatic-MDAR (Chevrolet Spark),-10,28,30,December
+H-Economy Automatic-EDAR (Nissan Micra),-10,28,30,December
+F-Compact Automatic-CDAR (Nissan Tiida),-10,28,30,December
